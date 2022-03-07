@@ -25,6 +25,6 @@ OK ... it's no [Young and Innocent](/swirling/2018/03/04/hitch-23-young-and-inno
 The sequence on the circus caravan is lovely ... 
 <figure class="aligncenter"><img src="https://thejar.hitchcock.zone/1000/Saboteur%20(1942)/0426.jpg" class="img-responsive" /><figcaption>Circus folk - Saboteur (1942)</figcaption></figure>
 
-... and it as that fall!
+... and it has that fall!
 
 <figure class="aligncenter"><img src="https://thejar.hitchcock.zone/1000/Saboteur%20(1942)/0994.jpg" class="img-responsive" /><figcaption>That fall - Saboteur (1942)</figcaption></figure>
