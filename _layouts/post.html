@@ -5,20 +5,21 @@ layout: default
 						<div class="col-md-12">
 									{% include social.html %}
 							        <p class="byline">Posted by 
-							        	{% if page.author.display_name != 'Andy' %}<a href="/authors/">{{page.author.display_name}}</a>
+							        	<span class="p-author h-card">{% if page.author.display_name != 'Andy' %}<a href="/authors/">{{page.author.display_name}}</a>
 							        	{% else %}{{page.author.display_name}}
-							        	{% endif %}
-							        	 on {{ page.date | date: "%-d %B %Y" }}</p>
+							        	{% endif %}</span>
+							        	 on <span class="dt-published" datetime="{{ page.date }}">{{ page.date | date: "%-d %B %Y" }}</p>
 							        {% if page.categories %}<p class="pull-left">in categories: </p>
 							        <ul class="categories list-inline">
 								        {% for category in page.categories %}
-								        <li><a class="label label-primary" href="{{ site.baseurl }}/category/{{ category | slugify }}">{{ category }}</a></li>
+								        <li><a class="label label-primary p-category" href="{{ site.baseurl }}/category/{{ category | slugify }}">{{ category }}</a></li>
 								        {% endfor %}
 							        </ul>
 							        {% endif %}
-									<article class="post-content">
+									<article class="post-content e-content">
 										{{ content }}
 									</article>
+									<div class=""><a class="u-url" href="{{page.url | prepend: site.baseurl }}">permalink</a></div>
 						</div>
 					</div>
 					<div class="row">

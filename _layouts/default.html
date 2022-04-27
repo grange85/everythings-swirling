@@ -6,10 +6,10 @@
 	{% include header.html %}
 	<div class="container">
 		<div class="row">
-			<div class="col-md-9">
+			<div class="col-md-9 h-entry">
 				{% if page.position != 'home' %}
 				<div class="page-header">
-					<h2>{{ page.title }}</h2>
+					<h2 class="p-name">{{ page.title }}</h2>
 				</div>
 				{% endif %}
 				{{ content }}
