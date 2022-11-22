@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "Christmas 2022 - Advent Calendar - 03 - Mel and Kim - Rockin' Around The Christmas Tree"
+title: "Advent Calendar - 03 - Mel and Kim - Rockin' Around The Christmas Tree"
 imgurl: 
 author:
   display_name: Andy

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "Christmas 2022 - Advent Calendar - 01 - Cavendish Woodhouse present Sounds Like Christmas!"
+title: "Advent Calendar - 01 - Cavendish Woodhouse present Sounds Like Christmas!"
 imgurl: 
 author:
   display_name: Andy
@@ -28,7 +28,6 @@ Cavendish Woodhouse were a furniture retailer who in the 70s were big enough to 
  - [Elton John - Step Into Christmas](https://www.youtube.com/watch?v=QWMqfKjJoKc) - #8 - 1973  
  Not a huge Elton fan, but he has his moments and *this is unquestionably one of those!*
  - [Linda Lewis - Winter Wonderland](https://www.youtube.com/watch?v=YPrW9KvJQBM)  - Didn't chart - 1976  
-
  Gets better when Linda gets all disco - definitely more fun than Dana!
 
 

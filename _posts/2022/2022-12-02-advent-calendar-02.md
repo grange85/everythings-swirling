@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "Christmas 2022 - Advent Calendar - 02 - The Goons - I'm Walking Backwards for Christmas"
+title: "Advent Calendar - 02 - The Goons - I'm Walking Backwards for Christmas"
 imgurl: 
 author:
   display_name: Andy
