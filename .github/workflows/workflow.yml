@@ -9,7 +9,7 @@ on:
     branches:
       - main
 
-jobs:
+jobs: 
   deployment:
     runs-on: ubuntu-latest
     environment: 
