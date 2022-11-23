@@ -1,4 +1,4 @@
-name: Deploy Everything's Swirling
+name: Deploy Everythings Swirling
 
 on:
   workflow_dispatch:
