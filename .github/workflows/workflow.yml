@@ -27,7 +27,7 @@ jobs:
           ${{ runner.os }}-gems-
 
     # Standard usage
-     - uses:  lemonarc/jekyll-action@1.0.0
+    - uses:  lemonarc/jekyll-action@1.0.0
 
     # Example deployment: Push to S3
     - name: Configure AWS credentials
