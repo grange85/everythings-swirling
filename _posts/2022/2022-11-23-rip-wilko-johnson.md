@@ -17,7 +17,7 @@ tags:
  - Wilko Johnson
  - Dr Feelgood
 excerpt: |
-  This morning I heard that Wilko Johnson passed away, it was sort of expected, but the fact that he was close to death nine or ten years ago and was still with us started to make it seem like he was immortal. 
+  This morning I heard that Wilko Johnson passed away, it was sort of expected, but the fact that he was close to death nine or ten years ago and was still with us started to make it seem like he was immortal.
   #WilkoJohnson #RIP #DrFeelgood #PubRock
 ---
 <figure class="aligncenter"><img src="https://cdn.grange85.co.uk/images/dr-feelgood-roxette.jpg" class="img-responsive" /><figcaption>Roxette (Recorded Live) (Wilko Johnson) (UA, 1976)</figcaption></figure>
