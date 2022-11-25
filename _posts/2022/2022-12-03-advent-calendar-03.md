@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 03 - Mel and Kim - Rockin' Around The Christmas Tree"
-imgurl: 
+imgurl: https://cdn.grange85.co.uk/xmas-singles/mel-and-kim-rockin-around-sleeve.jpg
 author:
   display_name: Andy
   login: admin
@@ -18,6 +18,10 @@ categories:
 tags:
  - Kim Wilde
  - Mel Smith
+excerpt: |
+  Oh Kim Wilde ... Kids In America was a hit in 1981 for unsmiling, sultry Kim ... I was seventeen and  maybe a wee bit too metal to outwardly admit to a crush but... 
+  #PopMusicAdventCalendar #PopMusic #AdventCalendar #Christmas #Xmas
+  #MelSmith #KimWilde
 ---
 <figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/mel-and-kim-rockin-around-sleeve.jpg" class="img-responsive" /><figcaption>Mel and Kim - Rockin' Around The Christmas Tree</figcaption></figure>
 Oh Kim Wilde ... Kids In America was a hit in 1981 for unsmiling, sultry Kim ... I was seventeen and  maybe a wee bit too metal to outwardly admit to a crush but... 

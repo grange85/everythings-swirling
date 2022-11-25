@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 02 - The Goons - I'm Walking Backwards for Christmas"
-imgurl: 
+imgurl: https://cdn.grange85.co.uk/xmas-singles/the-goons-walking-backwards-sleeve.jpg
 author:
   display_name: Andy
   login: admin
@@ -17,6 +17,10 @@ categories:
  - Advent Calendar 2022
 tags:
  - The Goons
+excerpt: |
+  I loved The Goons, I think my dad imposed them upon me - but had no problem with that. To be honest a lot of my early experience of them wasn't hearing them, but reading the scripts 
+  #PopMusicAdventCalendar #PopMusic #AdventCalendar #Christmas #Xmas
+  #TheGoons #ImWalkingBackwardsForChristmas
 ---
 <figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/the-goons-walking-backwards-sleeve.jpg" class="img-responsive" /><figcaption>The Goons</figcaption></figure>
 I loved The Goons, I think my dad imposed them upon me - but had no problem with that. To be honest a lot of my early experience of them wasn't hearing them, but reading the scripts - although I did occasionally get lucky enough to hear a show or two on the radio - or on LP - but I read more Goon shows than I heard and what I heard most was this, and The Ying Tong Song - probably on [Junior Choice](https://en.wikipedia.org/wiki/Children%27s_Favourites).

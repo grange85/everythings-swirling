@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 06 - Nina and Frederik"
-imgurl: 
+imgurl: https://cdn.grange85.co.uk/xmas-singles/nina-and-frederik-christmas-at-home-sleeve.jpg
 author:
   display_name: Andy
   login: admin
@@ -17,6 +17,10 @@ categories:
  - Advent Calendar 2022
 tags:
  - Nina and Frederik
+excerpt: |
+  We had Nina and Frederik records when I was growing up, although that's not some sort of parental sign of approval - we just had craploads of records acquired from who knows where over many years. 
+  #PopMusicAdventCalendar #PopMusic #AdventCalendar #Christmas #Xmas
+  #NinaAndFrederik
 ---
 <figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/nina-and-frederik-christmas-at-home-sleeve.jpg" class="img-responsive" /><figcaption>Nina and Frederik - Christmas at Home</figcaption></figure>
 We had Nina and Frederik records when I was growing up, although that's not some sort of parental sign of approval - we just had craploads of records acquired from who knows where over many years. I'm not sure I've really listened to them up until now ... and frankly they're not that great, not bad, just ... dull.
