@@ -20,6 +20,10 @@ tags:
  - Roger Miller
  - The Wailers
  - A Head Full of Wishes
+excerpt: |
+  People who know me will understand how hard this was for me to not put this behind door 24! It's an absolute beauty of a single put out in Chimney Rocks! records in 2007 and features a Sonic Boom remix of Old Toy Trains 
+  #PopMusicAdventCalendar #PopMusic #AdventCalendar #Christmas #Xmas
+  #DeanAndBritta #DeanWareham #BrittaPhillips #AHeadFullOfWishes
 ---
 <figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/dean-britta-old-toy-trains-sleeve.jpg" class="img-responsive" /><figcaption>Dean & Britta - He's Coming Home / Old Toy Trains (sleeve)</figcaption></figure>
 

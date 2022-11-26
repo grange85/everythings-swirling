@@ -16,7 +16,11 @@ categories:
  - Music
  - Advent Calendar 2022
 tags:
- - 
+ - Bruce Springsteen
+excerpt: |
+  I have on on/off relationship with The Boss - sometimes there's nothing better, other times I don't want to listen to more songs about cars and girls. But, I have never not loved this single - I love the joy in the delivery! 
+  #PopMusicAdventCalendar #PopMusic #AdventCalendar #Christmas #Xmas
+  #BruceSpringsteen
 ---
 <figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/bruce-springsteen-santa-clause-sleeve.jpg" class="img-responsive" /><figcaption>Bruce Springsteen - Santa Claus is Coming to Town</figcaption></figure>
 

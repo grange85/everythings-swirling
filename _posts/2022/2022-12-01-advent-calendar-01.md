@@ -16,6 +16,11 @@ categories:
  - Music
  - Advent Calendar 2022
 tags:
+excerpt: |
+  Cavendish Woodhouse were a furniture retailer who in the 70s were big enough to employ Bernie Winters for a TV ad and to license a bunch of Xmas classics for a promotional single ... well maybe not all four are classics ... but let's see:
+  #PopMusicAdventCalendar #PopMusic #AdventCalendar #Christmas #Xmas
+  #EltonJohn #Dana #JohnnyMathis #LindaLewis
+ 
 ---
 <figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/sounds-like-christmas-sleeve.jpg" class="img-responsive" /><figcaption>Cavendish Woodhouse present Sounds Like Christmas (sleeve)</figcaption></figure>
 Cavendish Woodhouse were a furniture retailer who in the 70s were big enough to [employ Bernie Winters for a TV ad](https://www.youtube.com/watch?v=1_FokmvsyAQ) and to license a bunch of Xmas classics for a promotional single ... well maybe not all four are classics ... but let's see:
