@@ -2,8 +2,8 @@
 layout: post
 status: publish
 published: true
-title: "Advent Calendar - 03 - Mel and Kim - Rockin' Around The Christmas Tree"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/mel-and-kim-rockin-around-sleeve.jpg
+title: "Advent Calendar - 03 - Dixieland Band from Santa Claus Land"
+imgurl: https://cdn.grange85.co.uk/xmas-singles/dixieland-band-from-santa-claus-land.jpg
 author:
   display_name: Andy
   login: admin
@@ -16,22 +16,17 @@ categories:
  - Music
  - Advent Calendar 2022
 tags:
- - Kim Wilde
- - Mel Smith
+ - Jimmy Dorsey
 excerpt: |
-  Oh Kim Wilde ... Kids In America was a hit in 1981 for unsmiling, sultry Kim ... I was seventeen and  maybe a wee bit too metal to outwardly admit to a crush but... 
+  First dip into the 78s on the Internet Archive is this sweetie from Jimmy Dorsey and his band and featuring Pat O'Connor on the vocal.
   #PopMusicAdventCalendar #PopMusic #AdventCalendar #Christmas #Xmas
-  #MelSmith #KimWilde
+  #TheGoons #ImWalkingBackwardsForChristmas
 ---
-<figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/mel-and-kim-rockin-around-sleeve.jpg" class="img-responsive" /><figcaption>Mel and Kim - Rockin' Around The Christmas Tree</figcaption></figure>
-Oh Kim Wilde ... Kids In America was a hit in 1981 for unsmiling, sultry Kim ... I was seventeen and  maybe a wee bit too metal to outwardly admit to a crush but... 
+<figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/dixieland-band-from-santa-claus-land.jpg" class="img-responsive" /><figcaption>Jimmy Dorsey 78</figcaption></figure>
+Time to raid [the amazing collection of 78s that are on the Internet Archive](https://archive.org/details/78rpm) - this is Jimmy Dorsey and his Original Dorseyland Jazz Band playing Dixieland Band from Santa Claus Land with Pat O'Connor providing the "vocal chorus" - it's a fab little swinging number with some sweet/funny lyrics.
 
- - [Mel and Kim - Rockin' Around The Christmas Tree](https://www.youtube.com/watch?v=hdnaPAJgAQI) - #3 - 1987
+ - [Jimmy Dorsey and his Original Dorseyland Jazz Band - Dixieland Band from Santa Claus Land](https://archive.org/details/78_dixieland-band-from-santa-claus-land_jimmy-dorsey-and-his-original-dorseyland-jazz_gbia0019093b/Dixie+-+Jimmy+Dorsey+and+his+Original+Dorseyland+Jazz+Band.flac) - 1950
 
-... and by 1987 I was too old and too much into The Pogues and The Men They Couldn't Hang to admit to a crush but ...
+_Twas the night before Christmas, quiet as a mouse,  
+But listen to the saxophone in JD's house_
 
-In 2012 this [beautiful video of drunken Kim heading home from a party on a train and entertaining her fellow travellers](https://www.youtube.com/watch?v=3Ij8BpOa-Pg) arrived on YouTube - what an absolute treat!
-
-... and by 2012 I was just too old to admit to a crush but ...
-
-I guess by 2022 I'm mature enough to admit it!
