@@ -27,6 +27,6 @@ Time to raid [the amazing collection of 78s that are on the Internet Archive](ht
 
  - [Jimmy Dorsey and his Original Dorseyland Jazz Band - Dixieland Band from Santa Claus Land](https://archive.org/details/78_dixieland-band-from-santa-claus-land_jimmy-dorsey-and-his-original-dorseyland-jazz_gbia0019093b/Dixie+-+Jimmy+Dorsey+and+his+Original+Dorseyland+Jazz+Band.flac) - 1950
 
-_Twas the night before Christmas, quiet as a mouse,
-But listen to the saxophone in JD's house__
+_Twas the night before Christmas, quiet as a mouse,  
+But listen to the saxophone in JD's house_
 
