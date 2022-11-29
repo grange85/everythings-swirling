@@ -33,4 +33,4 @@ Source: DVD
 Rating: 9/10  
 Hitchcock Zone: [Shadow of a Doubt (1943)](https://the.hitchcock.zone/wiki/Shadow_of_a_Doubt_(1943))
 
-_I've just noticed that we are over eight years into our Hitch rewatch - and we've only just reached [Lifeboat (which I posted when we watched it out of sequence in Feb 2021!)](http://127.0.0.1:4050/swirling/2021/02/12/hitch-32-lifeboat-1944/) - we need to up our game! Hazel's posts are on [Let's Fold Scarves](https://www.moley75.co.uk/category/hitchcock/) and tend to be more detailed/analytical than my idle half-arsed rambling_
+_I've just noticed that we are over eight years into our Hitch rewatch - and we've only just reached [Lifeboat (which I posted when we watched it out of sequence in Feb 2021!)](/swirling/2021/02/12/hitch-32-lifeboat-1944/) - we need to up our game! Hazel's posts are on [Let's Fold Scarves](https://www.moley75.co.uk/category/hitchcock/) and tend to be more detailed/analytical than my idle half-arsed rambling_
