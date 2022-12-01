@@ -13,6 +13,22 @@ layout: null
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
+
+      <item>
+	          <title>Just Like Christmas - Low in London - Christmas 1999</title>
+			          <description>I love Low, in the 90s I loved them more than most bands. We drifted apart - it was definitely me, not them, they kept on developing and I wanted them to be the same, it also didn&apos;t feel right watching them in 1000+ seated venues when the band I fell in love with played dingy indie rock clubs. But, I never really stopped loving them. 
+					  #Low #LowTheBand #IndieMusic #Slowcore #DreamPop #JustLikeChristmas
+					  </description>
+					          <pubDate>Thu, 01 Dec 2022 23:00:00 +0000</pubDate>
+							          <link>http://0.0.0.0:4050/swirling/2022/12/01/just-like-christmas/</link>
+											
+														<link rel="enclosure">https://cdn.grange85.co.uk/images/low-shepherds-bush-empire-long-exposure.jpg</link>
+																
+																		<guid isPermaLink="true">http://0.0.0.0:4050/swirling/2022/12/01/just-like-christmas/</guid>
+																		      </item>
+
+
+
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
