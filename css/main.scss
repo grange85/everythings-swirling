@@ -78,4 +78,9 @@ position: relative;
     margin: 0;
 }
 
+code {
+  white-space : pre-wrap !important;
+  word-break: break-word;
+}
+
 /* div.fluid-width-video-wrapper {margin-bottom: $line-height-computed;} */
