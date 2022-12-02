@@ -16,28 +16,9 @@ layout: null
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | replace: '"/swirling', '"https://www.grange85.co.uk/swirling' | xml_escape }}
-
-        {% unless post.content contains "<img" %}
-			{% if post.imgurl contains ".jpg"  %}
-				{% capture imagetag %}
-					<img src="{{ post.imgurl }}">
-				{% endcapture %}
-				{{ imagetag | xml_escape }}
-			{% endif %}
-		{% endunless %}
-		</description>
-
-
+        <description>{% if post.excerpt %}{{ post.excerpt | replace: '"/swirling', '"https://www.grange85.co.uk/swirling' | xml_escape }}{% else %}{{ post.content | replace: '"/swirling', '"https://www.grange85.co.uk/swirling' | xml_escape }}{% endif %}</description>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-		{% if post.enclosure.url contains ".mp3" %}
-			<enclosure url="{{post.enclosure.url}}" length="{{post.enclosure.length}}" type="audio/mpeg" />
-		{% elsif post.imgurl contains ".jpg" or post.imgurl contains "googleusercontent" %}
-			<media:content url="{{post.imgurl}}" type="image/jpg" medium="image" />
-		{% elsif post.imgurl contains ".png" %}
-			<media:content url="{{post.imgurl}}" type="image/png" medium="image" />
-		{% endif %}
 		<guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
       </item>
     {% endfor %}
