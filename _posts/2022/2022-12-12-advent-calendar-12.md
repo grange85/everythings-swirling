@@ -23,11 +23,11 @@ excerpt: |
   #PopMusicAdventCalendar #PopMusic #AdventCalendar #Christmas #Xmas
   #MarcBolan #TRex #ChristmasBop #SuperFunkChristmas
 ---
-<figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/t-rex-christmas-bop-sleeve.jpg" class="img-responsive" /><figcaption>MarBolan and T.Rex - Christmas Bop (Marc on Wax, 1982)</figcaption></figure>
+<figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/the-goodies-make-a-daft-noise-disc.jpg" class="img-responsive" /><figcaption>The Goodies - Make a Daft Noise for Christmas</figcaption></figure>
 
-This is unquestionably a relative of [I'm Walking Backwards for Christmas]() just as The Goodies were a relative of The Goons. Maybe because they were on telly and normally pitched at a family audience it seems a lot more accessible - although their [other Christmas single]() was a little more ... adult, and lyrically a bit questionable (and consequently I guess a bit more successful and memorable.
+This is unquestionably a relative of [I'm Walking Backwards for Christmas](https://www.grange85.co.uk/swirling/2022/12/02/advent-calendar-02/) just as The Goodies were a relative of The Goons. Maybe because they were on telly and normally pitched at a family audience it seems a lot more accessible - although their [other Christmas single](https://www.youtube.com/watch?v=hC3AphnJLbE) was a little ... funnier, more adult, but lyrically a bit questionable (and consequently I guess a bit more successful and memorable).
 
 Make a Daft Noise is charming, pseudo-funk-nonsense and an enjoyable enough Christmas novelty.
 
- - [The Goodies - Make a Daft Noise Christmas]() #20 - 1975
+ - [The Goodies - Make a Daft Noise Christmas](https://www.youtube.com/watch?v=8MAlfdL8uSo) #20 - 1975
 
