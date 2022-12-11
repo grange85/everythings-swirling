@@ -21,7 +21,7 @@ tags:
 excerpt: |
   This is unquestionably a relative of I'm Walking Backwards for Christmas just as The Goodies were a relative of The Goons.
   #PopMusicAdventCalendar #PopMusic #AdventCalendar #Christmas #Xmas
-  #MarcBolan #TRex #ChristmasBop #SuperFunkChristmas
+  #TheGoodies #NoveltyRecord #MakeADaftNoiseForChristmas 
 ---
 <figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/the-goodies-make-a-daft-noise-disc.jpg" class="img-responsive" /><figcaption>The Goodies - Make a Daft Noise for Christmas</figcaption></figure>
 
