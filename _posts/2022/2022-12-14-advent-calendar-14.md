@@ -16,13 +16,13 @@ categories:
  - Music
  - Advent Calendar 2022
 tags:
- - Mark Peters
- - Box of Delights
+ - Paul McCartney
 excerpt: |
   Weirdly this beauty turns out to be my most controversial Christmas love. It seems there is quite a lot of hate for Macca's joyous Xmas masterpiece.
   #PopMusicAdventCalendar #PopMusic #AdventCalendar #Christmas #Xmas
   #PaulMcCartney #WonderfulChristmastime #SHAWC
 ---
+<figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/paul-mmcartney-wonderful-christmastime-sleeve.jpg" class="img-responsive" /><figcaption>Paul McCartney - Wonderful Christmastime</figcaption></figure>
 Weirdly this beauty turns out to be my most controversial Christmas love. It seems there is quite a lot of hate for Macca's joyous Xmas masterpiece. Having expressed my love of the song on the Galaxie 500 Mailing list in 2005 I have found myself having to fight my corner against a torrent of dislike for the song. But, for 18 years nothing has changed my opinion, and I think I actually may have won over a few people - although suspect they may consider their change of heart ironic.
 
 The thing is, I genuinely don't understand the negativity - I mean - it's a Christmas song that celebrates all that's good about the season  - it has joy, it has choirs of children, it has friendship. It is also musically innovative, seeing Macca playing with his new electronic toys!
@@ -40,9 +40,5 @@ _[Annie Zaleski - Salon, 2016](https://www.salon.com/2016/12/11/in-defense-of-pa
 > And that’s the paradox of this track — the friendly, human-sounding stuff is the work of precise, ruthless, calculation, while the inhuman, cold, machine-like stuff is made by someone giddy with the possibilities of his new toys and playing with them. That’s McCartney all over, really, and whether you like or dislike the record, I’d argue that “Wonderful Christmastime” is, if nothing else, the quintessential Paul McCartney record; the one I’d play people who wanted to learn *everything* about the full range of Paul McCartney’s music in three minutes and forty-five seconds.  
 _[Head of State, 2016](https://andrewhickey.info/2016/12/12/in-defence-of-wonderful-christmastime/)_
 
-
-
-<figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/paul-mmcartney-wonderful-christmastime-sleeve.jpg" class="img-responsive" /><figcaption>Paul McCartney - Wonderful Christmastime</figcaption></figure>
-
- - [Paul McCartney - Wonderful Christmastime]()
+ - [Paul McCartney - Wonderful Christmastime](https://www.youtube.com/watch?v=94Ye-3C1FC8) #6, 1979
 
