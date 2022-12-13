@@ -29,7 +29,7 @@ It appears that over the years the order of the last 5 gifts has been at the whi
 
 I'll assume that everyone has a similar problem so ... here's the half-arsed mnemonic we've come up with.
 
-After the swans its maids, musicians and posh folk - although, come to think of it, that doesn't actually help with which musicians and which posh folk come first.
+After the swans its maids, posh folk and musicians  - although, come to think of it, that doesn't actually help with which posh folk and which musicians come first.
 
 I think the song needs a beuatiful sounding soprano to do it justice and Joan is that so this is unquestionably wonderful.
 
