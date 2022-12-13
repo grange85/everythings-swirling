@@ -27,9 +27,9 @@ In the 1960s West and South London was a hotbed of Rhythm and Blues clubs and on
 
 This [timeline website](http://www.tiki-toki.com/timeline/entry/484931/Crawdaddy-Rhythm-and-Blues-Club/#) has a good outline history with some pictures and audio clip interviews.
 
-A few years ago the club was revived in a function room at the Athletic Ground and on Friday night they had their 2022 Christmas party and I happened to be in London, and at a loose end, so decided to head along. I took the boy along.
+A few years ago the club was revived in a function room at the Athletic Ground and on Friday night they had their 2022 Christmas party and I happened to be in London, and at a loose end, so decided to head along. I took the boy.
 
-The band for the night where the Crawdaddy Blues Band which included the drummer from [The Others](https://www.youtube.com/watch?v=_CBWWrGXSjI), who had followed The Yardbirds as house band back in the day. They rattled through a fine set of classics "Route 66", "Got My Mojo Working", "I Can't Be Satisfied", "Sunshine of Your Love", "I'm Crying" ... you get the idea.
+The band for the night were the Crawdaddy Blues Band which included the drummer from [The Others](https://www.youtube.com/watch?v=_CBWWrGXSjI), who had followed The Yardbirds as house band back in the day. They rattled through a fine set of classics "Route 66", "Got My Mojo Working", "I Can't Be Satisfied", "Sunshine of Your Love", "I'm Crying" ... you get the idea.
 
 BUT this wasn't even close to how I imagine a 1960s blues club was like, it felt closer to a wedding reception. Now, I understand that the audience was skewing old - Adam (25) was unquestionably the youngest person in the room - even I was probably in the youngest 10% - so putting out chairs was probably advisable - but not in front of the stage and not filling most of the room. The room was too bright - the stage was the corner of a room and not raised at all, and those chairs, all conspired against the night.
 
