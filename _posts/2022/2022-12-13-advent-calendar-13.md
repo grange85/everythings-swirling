@@ -29,9 +29,11 @@ It appears that over the years the order of the last 5 gifts has been at the whi
 
 I'll assume that everyone has a similar problem so ... here's the half-arsed mnemonic we've come up with.
 
-After the swans its maids, posh folk and musicians  - although, come to think of it, that doesn't actually help with which posh folk and which musicians come first.
+After the swans its maids, posh folk and musicians  - although, come to think of it, that doesn't actually help with which posh folk and which musicians come first. And Joan sings/receives the musicians before the posh folk. I'm not even sure WHAT is a-dancing on day eleven! It's all very confused.
 
-I think the song needs a beuatiful sounding soprano to do it justice and Joan is that so this is unquestionably wonderful.
+I think the song needs a beuatiful sounding soprano to do it justice and Joan is that so this is unquestionably wonderful. 
+
+But she doesn't help me work out what arrives when! 
 
  - [Joan Sutherland - The Twelve Days of Christmas](https://www.youtube.com/watch?v=OTFDX1-rXcg) Didn't chart, 1965
 
