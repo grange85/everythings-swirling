@@ -27,9 +27,11 @@ excerpt: |
 
 Dusty and Tom/Dion and Tim trot out a quartet of Christmas faves in their own inimitable way - warm and sweet and fun and sometimes jaunty, the way Christmas (and therefore a Christmas EP) should be. 
 
-It opens with their version of The Twelve Days of Christmas and just to thow a spanner in the works beyond the maids-a-milking we get dogs-a-barking and cats-a-mewing - what chance do I have!
+It opens with their version of The Twelve Days of Christmas and just to thow a [spanner in the works](/swirling/2022/12/13/advent-calendar-13/) beyond the maids-a-milking we get dogs-a-barking and cats-a-mewing - what chance do I have!
 
-Next up Mary's Boy child with its gentle calypso feel. Away in a Manger is sweet enough but perhaps a little ... routine, but frankly it's not a song worthy of trying.
+Next up Mary's Boy child with its gentle calypso feel, and with the peculiar West Indian accents that the song so often has - although not as obviously as [Nina and Fredrik's version](/swirling/2022/12/06/advent-calendar-06/). 
+
+Away in a Manger is sweet enough but perhaps a little ... routine, but frankly it's not a song worthy of trying. being one of the dullest of all Christmas songs.
 
 We Wish You A Merry Christmas however has all the fun you'd want. It ends with the sentiment "why can't we have Christmas the whole year round?"
 
