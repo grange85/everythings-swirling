@@ -23,7 +23,7 @@ excerpt: |
   #PopMusicAdventCalendar #PopMusic #AdventCalendar #Christmas #Xmas
   #MarcBolan #TRex #ChristmasBop #SuperFunkChristmas
 ---
-<figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/t-rex-christmas-bop-sleeve.jpg" class="img-responsive" /><figcaption>MarBolan and T.Rex - Christmas Bop (Marc on Wax, 1982)</figcaption></figure>
+<figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/t-rex-christmas-bop-sleeve.jpg" class="img-responsive" /><figcaption>Marc Bolan and T.Rex - Christmas Bop (Marc on Wax, 1982)</figcaption></figure>
 
 Despite my Marc/T.Rex love I was unaware of Christmas Bop until about 10 years ago when [it turned up on Bandcamp](https://bolan-boogie.bandcamp.com/album/t-rexmas) - and while it's not a T.Rex classic - it's still Marc doing Christmas which makes it pretty damn close to a Christmas classic!
 
