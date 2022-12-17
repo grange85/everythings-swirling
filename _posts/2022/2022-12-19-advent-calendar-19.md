@@ -20,7 +20,7 @@ tags:
 excerpt: |
   I notice that the world’s recent (re-)discovery of Kate sadly hasn’t extended to her seasonal masterpiece - a single that didn’t get the attention it deserved on first release either, barely scraping into the top 30 before fading into an obscurity that it still enjoys.
   #PopMusicAdventCalendar #PopMusic #AdventCalendar #Christmas #Xmas
-  #MarcBolan #TRex #ChristmasBop #SuperFunkChristmas
+  #KateBush #DecemberWillBeMagicAgain
 ---
 <figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/kate-bush-christmas-magic-sleeve.jpg" class="img-responsive" /><figcaption>Kate Bush - December Will Be Magic Again</figcaption></figure>
 
