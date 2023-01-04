@@ -152,3 +152,4 @@ build-iPhoneSimulator/
 .jekyll-cache
 _deploy
 *.swp
+*.swo
