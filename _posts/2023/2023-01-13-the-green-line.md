@@ -21,9 +21,9 @@ excerpt: |
 ---
 <figure class="aligncenter"><img src="https://cdn.grange85.co.uk/the-green-line-insert.jpg" class="img-responsive" /><figcaption>The Green Line insert</figcaption></figure>
 
-For all of my secondary school education I travelled to and from school on the 715 Green Line coach. It was also the service I used to get to my first concert, seeing Motorhead at The Hammersmith Odeon and many other shows at the Hammy Odeon. For these reasons The Green Line has a place in my heart.
+For all of my secondary school education I travelled to and from school on the 715 Green Line coach. It was also the service I used to get to my first concert, seeing Motorhead at The Hammersmith Odeon, and many other shows at the Hammy Odeon. For these reasons The Green Line has a place in my heart.
 
-Becuase of all of that I have to admit that I bought Gilroy Mere's "The Green Line" almost entirely because of nostalgia, helped by the glorious  packaging it came in (even if I haven't had the heart to cut up and build the bus. The fact that it was on Clay Pipe pretty much assured the quality of the music so it wasn't at all a risky purchase. The music is as beautiful as the packaging suggests.
+Becuase of all of that I have to admit that I bought Gilroy Mere's "The Green Line" almost entirely because of nostalgia, helped by the glorious  packaging it came in (even if I haven't had the heart to cut up and build the bus). The fact that it was on Clay Pipe pretty much assured the quality of the music so it wasn't at all a risky purchase. The music is as beautiful as the packaging suggests.
 
 - [Gilroy Mere - The Green Line (bandcamp)](https://gilroymere.bandcamp.com/album/the-green-line)
 - [Gilroy Mere - The Green Line (Clay Pipe Music)](http://www.claypipemusic.co.uk/2017/08/gilroy-mere-green-line.html)
