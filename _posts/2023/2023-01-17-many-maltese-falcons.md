@@ -48,8 +48,5 @@ Not too bad, and Peter Vaughan is a pretty good Gutman. Of all the characters in
 ### [The Falcon's Malteser - Anthony Horowitz (pub. 1986)](https://en.wikipedia.org/wiki/The_Falcon%27s_Malteser)
 I think this only exists because of the pun in the title. The book doesn't really make use of its Maltese Falcon reference like I felt it should, and ended up just being a convoluted story wrapped up with tiresome wordplay. 3/10
 
-### [Just Ask For Diamond (Stephen Bayly, 1986)](https://en.wikipedia.org/wiki/Just_Ask_for_Diamond)
-
-### [The Maltese Falcon (Hollywood Theatre of the Ear, 2008)](https://www.worldcat.org/title/dashiell-hammetts-the-maltese-falcon-an-audio-dramatization/oclc/277785730)
 
 
