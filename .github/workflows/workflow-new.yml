@@ -1,4 +1,4 @@
-me: ES
+name: ES
 on:
   workflow_dispatch:
     inputs:
