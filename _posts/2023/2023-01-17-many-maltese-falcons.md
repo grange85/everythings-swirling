@@ -16,7 +16,7 @@ categories:
 tags:
  - The Maltese Falcon
 excerpt: |
-  The 1941 film of The Maltese Falcon has long been one of my favourite films, sometimes my actual _favourite_ so over the last few weeks I have revisited it, and it's original source (Dashiell Hammet's novel) and some of the other interpretations of that source - here's some thoughts ...
+  The 1941 film of The Maltese Falcon has long been one of my favourite films, sometimes my actual _favourite_ so over the last few weeks I have revisited it, and its original source (Dashiell Hammet's novel) and some of the other interpretations of that source - here's some thoughts ...
 
 
 ---
