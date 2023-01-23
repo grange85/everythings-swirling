@@ -22,7 +22,7 @@ excerpt: |
 ---
 <figure class="aligncenter"><img src="https://cdn.grange85.co.uk/the-maltese-falcon.jpg" class="img-responsive" /><figcaption>The Maltese Falcon (1941)</figcaption></figure>
 
-The 1941 film of The Maltese Falcon has long been one of my favourite films, sometimes my actual _favourite_ so over the last few weeks I have revisited it, and it's original source (Dashiell Hammet's novel) and some of the other interpretations of that source - here's some thoughts ...
+The 1941 film of The Maltese Falcon has long been one of my favourite films, sometimes my actual _favourite_ so over the last few weeks I have revisited it, and its original source (Dashiell Hammet's novel) and some of the other interpretations of that source - here's some thoughts ...
 
 ### [The Maltese Falcon - Dashiell Hammet (pub. 1930)](https://en.wikipedia.org/wiki/The_Maltese_Falcon_(novel))
 This was the first time I've read the book for probably 40 years and in that time I've watched the 1941 film many, many times. The most startling thing is how faithful the plot is and how much dialogue was lifted right out of the book and dropped into the film. The book has a few things that most of the adaptations ignore, most notably Gutman's daughter Rhea who even in the book seems superfluous so is unsurprisingly dropped in most adaptations. 9/10
