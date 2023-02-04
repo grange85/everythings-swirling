@@ -47,6 +47,34 @@ pagination:
   extension: html
   indexpage: 'index'
 
+jekyll-compose:
+  auto_open: true
+  default_front_matter:
+    drafts:
+      layout: post
+      title: 
+      imgurl: 
+      author:
+        display_name: Andy
+        login: admin
+        email: andy@grange85.co.uk
+      categories:
+       - 
+      tags:
+       - 
+    posts:
+      layout: post
+      title: 
+      imgurl:
+      author:
+        display_name: Andy
+        login: admin
+        email: andy@grange85.co.uk
+      categories:
+       - 
+      tags:
+       - 
+
 excerpt_separator: <!--more-->
 
 # Build settings
