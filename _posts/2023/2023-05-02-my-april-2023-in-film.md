@@ -12,7 +12,10 @@ tags:
 excerpt: |
   Quick summary and stats about the films I watched in April 2023.
   #Music #Cinema #Film #Cinemastodon
+date: 2023-05-02 19:11 +0100
 ---
+<figure class="aligncenter"><img src="https://cdn.grange85.co.uk/images/2023-04-my-april-in-film.png" class="img-responsive" /><figcaption>My April in Film</figcaption></figure>
+
 ## Summary
  - Films watched: 43
  - Rated before: 12
@@ -34,5 +37,7 @@ excerpt: |
  - 2020s: 2 / 8
 
 ## Highest rated films
- - Never Be a Punching Bag for Nobody (Naomi Yang, 2023) - 9
+ - [Never Be a Punching Bag for Nobody](https://www.naomivision.com/never-be-a-punching-bag-for-nobody) (Naomi Yang, 2023) - 9
  - Am&eacute;lie (Jean-Pierre Jeunet, 2001) - 9
+
+<figure class="aligncenter"><img src="https://media.fullofwishes.co.uk/03-damon_and_naomi/pictures/never-be-a-punching-bag-poster.jpg" class="img-responsive" /><figcaption>Never Be a Punching Bag for Nobody</figcaption></figure>
