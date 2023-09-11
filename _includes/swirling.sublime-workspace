@@ -561,7 +561,7 @@
 		"replace_history":
 		[
 			"<li><a href=\"http://media.fullofwishes.co.uk$1\">$1</a></li>",
-			"http://media.grange85.co.uk/swirling/$1",
+			"http://cdn.grange85.co.uk/swirling/$1",
 			"$1'$2",
 			"\"Politics\"",
 			"\"Idle nonsense\"",
