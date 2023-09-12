@@ -427,7 +427,7 @@
 		[
 			"<span class=\"inlineFlash\">",
 			"Favourite hitch",
-			"aavid",
+			"ahfowvideo",
 			";",
 			">\n",
 			"^\\.(.*?) .*$",
@@ -570,7 +570,7 @@
 			"</p>\n<figure><img $1><figcaption>$2</figcaption></figure>",
 			"<figure><img $1><figcaption>$2</figcaption></figure>",
 			"<figure><img $1><figcaption>$2</figcaption></figure>\n<p>",
-			"{% aavid",
+			"{% ahfowvideo",
 			"</p>\n{% avid \"$5\" \"\" %}",
 			"</p>\n",
 			"</p>\n{% avid \"$5\" \"\" %}",

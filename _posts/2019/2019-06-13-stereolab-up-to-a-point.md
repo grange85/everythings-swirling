@@ -35,11 +35,11 @@ I think [this video from last week's Primavera](https://www.youtube.com/watch?v=
 Last night had flashes of 'lab brilliance and they were Crest (1993), Metronomic Underground (1996), French Disko (1993) and a blinding set-closer Lo Boob Oscillator (1993). But most of the rest of the set was from the albums I was cooler on and had therefore listened to less.
 
 Here's Crest from last night _(apologies for the shakiness of sound and vision)_:
-{% aavid "0hq_FKNgjug" "Crest - Stereolab (London, 2019)" %}
+{% ahfowvideo "0hq_FKNgjug" "Crest - Stereolab (London, 2019)" %}
 
 
 ...and the end of Lo Boob Oscillator _(apologies for shooting this in portrait mode - I hadn't intended videoing it at all but ... hypnotized and before I realised it was too late to change!)_:
-{% aavid "fV6TLTjLvuM" "Lo Boob Oscillator - Stereolab (London, 2019)" %}
+{% ahfowvideo "fV6TLTjLvuM" "Lo Boob Oscillator - Stereolab (London, 2019)" %}
 
 
 I think I'd go see a _Stereolab 1993_ tribute band in a shot!
