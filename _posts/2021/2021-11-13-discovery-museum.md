@@ -9,7 +9,7 @@ author:
   display_name: Hazel
   email: hazel@moley75.co.uk
 date: 2021-11-13
-imageurl: http://cdn.grange85.co.uk/images/relief-map-ouseburn.jpg
+imageurl: https://cdn.grange85.co.uk/images/relief-map-ouseburn.jpg
 categories:
  - Living by the water
  - History
@@ -29,11 +29,11 @@ My favourite thing was the gigantic relief map (or model) made for the 1929 Nort
 
 Here are a few sections running west to east. 
 
-{% ahfowimage "http://cdn.grange85.co.uk/images/relief-map-newcastle.jpg" "City centre" %}
+{% ahfowimage "https://cdn.grange85.co.uk/images/relief-map-newcastle.jpg" "City centre" %}
 
-{% ahfowimage "http://cdn.grange85.co.uk/images/relief-map-ouseburn.jpg" "Ouseburn" %}
+{% ahfowimage "https://cdn.grange85.co.uk/images/relief-map-ouseburn.jpg" "Ouseburn" %}
 
-{% ahfowimage "http://cdn.grange85.co.uk/images/relief-map-dock.jpg" "Albert Edward Dock" %}
+{% ahfowimage "https://cdn.grange85.co.uk/images/relief-map-dock.jpg" "Albert Edward Dock" %}
 
-{% ahfowimage "http://cdn.grange85.co.uk/images/relief-map-shields.jpg" " North and South Shields" %}
+{% ahfowimage "https://cdn.grange85.co.uk/images/relief-map-shields.jpg" " North and South Shields" %}
 

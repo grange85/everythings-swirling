@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 09 - Low - If You Were Born Today / Blue Christmas"
-imgurl: http://cdn.grange85.co.uk/xmas-singles/low-if-you-were-born-sleeve.jpg
+imgurl: https://cdn.grange85.co.uk/xmas-singles/low-if-you-were-born-sleeve.jpg
 author:
   display_name: Andy
   login: admin
@@ -22,7 +22,7 @@ excerpt: |
   #PopMusicAdventCalendar #PopMusic #AdventCalendar #Christmas #Xmas
   #Low #IfYouWereBornToday #BlueChristmas
 ---
-<figure class="aligncenter"><img src="http://cdn.grange85.co.uk/xmas-singles/low-if-you-were-born-sleeve.jpg" class="img-responsive" /><figcaption>Low - If You Were Born Today / Blue Christmas</figcaption></figure>
+<figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/low-if-you-were-born-sleeve.jpg" class="img-responsive" /><figcaption>Low - If You Were Born Today / Blue Christmas</figcaption></figure>
 
 Just Like Christmas is the Christmas Low track that invariably gets played but this seven inch single that came out a couple of years earlier is the most magical of Low's contribution to the season.
 
@@ -41,4 +41,4 @@ We lost Mimi a few weeks ago - and such a loss, It'll make Low's heartbreaking C
  - [Low - Blue Christmas](https://www.youtube.com/watch?v=_bCge-JzkWU) - 1997
 
 Obv the whole of the [Christmas EP](https://lowtheband.bandcamp.com/album/christmas) is great and has both of the above, and Just Like Christmas, and a bunch more seasonal gems.
-<figure class="aligncenter"><img src="http://cdn.grange85.co.uk/xmas-singles/low-if-you-were-born-disc.jpg" class="img-responsive" /><figcaption>Low - If You Were Born Today / Blue Christmas (disc)</figcaption></figure>
+<figure class="aligncenter"><img src="https://cdn.grange85.co.uk/xmas-singles/low-if-you-were-born-disc.jpg" class="img-responsive" /><figcaption>Low - If You Were Born Today / Blue Christmas (disc)</figcaption></figure>

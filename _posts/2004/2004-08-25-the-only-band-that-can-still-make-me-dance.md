@@ -11,8 +11,6 @@ author:
 author_login: Andy
 author_email: andy@grange85.co.uk
 author_url: http://
-wordpress_id: 25
-wordpress_url: http://www.grange85.co.uk/swirling/?p=25
 date: '2004-08-25 08:58:22 +0100'
 date_gmt: '2004-08-25 08:58:22 +0100'
 categories:
