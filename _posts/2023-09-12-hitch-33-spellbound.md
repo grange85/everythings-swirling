@@ -30,5 +30,4 @@ It's 19 years since I last saw the film and have rated it lower than I did then,
 
 Source: DVD  
 Rating: 4/10 _(I did rate it 5/10 but bcs of the Saboteur comment above I've downgraded it!)_  
-Hitchcock Zone: [Spellbound (1945)](https://the.hitchcock.zone/wiki/Spellbound_(1945)))
-
+Hitchcock Zone: [Spellbound (1945)](https://the.hitchcock.zone/wiki/Spellbound_(1945))
