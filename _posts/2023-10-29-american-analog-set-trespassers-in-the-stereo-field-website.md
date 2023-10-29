@@ -10,7 +10,7 @@ I'm rather thrilled that American Analog set have [emerged from a long hibernati
 
 <figure class="aligncenter"><img src="https://cdn.grange85.co.uk/amanset/graphics/trespassers-in-the-stereo-field-2000.png" class="img-responsive" /><figcaption>Trespassers in the stereo field (2000)</figcaption></figure>
 
-At some point in the late 1990s I was introduced to American Analog Set by fans on the Galaxie 500 Mailing List - I hunted down all the releases I could - which at the time was three rather great albums and the _Bliss Out_ EP (that I kind of loved even more). During my scouring of the Internet for information it became clear that Amanset were sorely under-represented in the _fan website_ stakes... so, as that was _my think_ I felt an urge to remedy that.
+At some point in the late 1990s I was introduced to American Analog Set by fans on the Galaxie 500 Mailing List - I hunted down all the releases I could - which at the time was three rather great albums and the _Bliss Out_ EP (that I kind of loved even more). During my scouring of the Internet for information it became clear that Amanset were sorely under-represented in the _fan website_ stakes... so, as that was _my thing_ I felt an urge to remedy that.
 
 So at some point either at the end of 1999 or early in 2000 _Trespassers in the stereo field_ was born, with the following reason printed proudly on the front page.
 
