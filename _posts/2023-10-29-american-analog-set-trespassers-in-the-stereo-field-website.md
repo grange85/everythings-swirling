@@ -28,7 +28,7 @@ The news page was even less ambitious "if I had any news about the band this is 
 
 Over the next three or four years the page expanded somewhat, both in content and width, but I never got as fully involved in the world of Amanset as I was (and still am) in the world of Galaxie 500, so the pages became a little neglected - mostly because my time was being used elsewhere, but also because I wasn't getting a huge amount of engagemnent from other fans - this would have been down to me rather than them! Also, the gaps were being filled elsewhere, other websites started to appear - including an official one - that made it harder for me to commit.
 
-<figure><img src="https://cdn.grange85.co.uk/amanset/amanset-cassettes.jpg" class="img-responsive" /><figcaption>iAmerican Analog Set cassettes</figcaption></figure>
+<figure><img src="https://cdn.grange85.co.uk/amanset/amanset-cassettes.jpg" class="img-responsive" /><figcaption>American Analog Set cassettes</figcaption></figure>
 
 In May 2002, I was already considering closing the site but decided that the band were still not that well served on the Internet so I persisted. In July, the band played at 93 Feet East in London and I went along, the only time I saw them live, I met up with a couple of folk who had contacted me through the website, didn't talk to the band... and that was that. My pal did record the show but I can't find the recording, I was also sent a recording from another UK date, but can't find that either.
 
