@@ -28,7 +28,7 @@ The news page was even less ambitious "if I had any news about the band this is 
 
 Over the next three or four years the page expanded somewhat, both in content and width, but I never got as fully involved in the world of Amanset as I was (and still am) in the world of Galaxie 500, so the pages became a little neglected - mostly because my time was being used elsewhere, but also because I wasn't getting a huge amount of engagemnent from other fans - this would have been down to me rather than them! Also, the gaps were being filled elsewhere, other websites started to appear - including an official one - that made it harder for me to commit.
 
-<figure><img src="https://cdn.grange85.co.uk/amanset/graphics/trespassers-in-the-stereo-field-2005.png" class="img-responsive" /><figcaption>Trespassers in the stereo field (2005)</figcaption></figure>
+<figure><img src="https://cdn.grange85.co.uk/amanset/amanset-cassettes.jpg" class="img-responsive" /><figcaption>iAmerican Analog Set cassettes</figcaption></figure>
 
 In May 2002, I was already considering closing the site but decided that the band were still not that well served on the Internet so I persisted. In July, the band played at 93 Feet East in London and I went along, the only time I saw them live, I met up with a couple of folk who had contacted me through the website, didn't talk to the band... and that was that. My pal did record the show but I can't find the recording, I was also sent a recording from another UK date, but can't find that either.
 
@@ -42,5 +42,9 @@ I have found a couple of casettes I was sent, one with a couple of live shows fr
 I sadly can't remember who sent me this - they filled up the other side with synth-pop band [Vitesse's Chelsea 27099 album](https://www.youtube.com/watch?v=JbrvGWU_pIg) which I'll admit to not having listened to for 20+ years! I currently don't have a working cassette deck so the Amanset _New work_ will have to remain a mystery!
 
 On the 5th November 2004 I declared the site dead, and in March 2005 made one last post pointing users at a new fansite [Amansetnews _archived at Wayback Machine (https://web.archive.org_), 4th April 2005](https://web.archive.org/web/20050404222222/http://www.amansetnews.com/) and Amanset's official site, and finally mothballed the site... and eventually took it down.
+
+
+<figure><img src="https://cdn.grange85.co.uk/amanset/graphics/trespassers-in-the-stereo-field-2005.png" class="img-responsive" /><figcaption>Trespassers in the stereo field (2005)</figcaption></figure>
+
 
 I have to admit here that I drifted away from the band, and on occasional revisits found them more difficult to love than I had, I think I had changed, the greatness was still there, I just didn't seem to have the patience to commit to them like I had in those early flushes. I'm older now and the love _is_ still there, I think I just needed them to remind me, and maybe this new album has... although it hasn't arrived yet!
