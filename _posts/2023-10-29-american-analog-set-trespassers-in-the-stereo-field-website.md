@@ -26,7 +26,7 @@ So at some point either at the end of 1999 or early in 2000 _Trespassers in the 
 
 The news page was even less ambitious "if I had any news about the band this is where it would go".
 
-Over the next three or four years the page expanded somewhat both in content, and width but I never got as fully involved in the world of Amanset as I was (and still am) in the world of Galaxie 500, so the pages became a little neglected - mostly because my time was being used elsewhere, but also because I wasn't getting a huge amount of engagemnent from other fans - this would have been down to me rather than them! Also, the gaps were being filled elsewhere, other websites started to appear - including an official one - that made it harder for me to commit.
+Over the next three or four years the page expanded somewhat, both in content, and width but I never got as fully involved in the world of Amanset as I was (and still am) in the world of Galaxie 500, so the pages became a little neglected - mostly because my time was being used elsewhere, but also because I wasn't getting a huge amount of engagemnent from other fans - this would have been down to me rather than them! Also, the gaps were being filled elsewhere, other websites started to appear - including an official one - that made it harder for me to commit.
 
 <figure><img src="https://cdn.grange85.co.uk/amanset/graphics/trespassers-in-the-stereo-field-2005.png" class="img-responsive" /><figcaption>Trespassers in the stereo field (2005)</figcaption></figure>
 
