@@ -1,27 +1,34 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Everything's swirling
+subtitle:
 email: andy@grange85.co.uk
+baseurl: "/swirling"
+url: "https://www.grange85.co.uk"
+domain: https://www.grange85.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   It's what I am.
-baseurl: "/swirling" # the subpath of your site, e.g. /blog
-url: "https://www.grange85.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+
+
+ 
+  
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+
+
+
+
+
+
+
 twitter_username: grange85
 github_username:  grange85
 permalink: /:year/:month/:day/:title/
+
 jekyll-archives:
   enabled: ['month','categories']
   layouts:
@@ -30,6 +37,9 @@ jekyll-archives:
   permalinks:
     month: '/:year/:month/'
     category: '/category/:name/'
+
+
+
 pagination: 
   enabled: true
   debug: false
@@ -47,47 +57,48 @@ pagination:
   extension: html
   indexpage: 'index'
 
+excerpt_separator: <!--more-->
+
 jekyll-compose:
   auto_open: true
   default_front_matter:
     drafts:
       layout: post
-      title: 
-      imgurl: 
+      sitemap: true
+      series-title:
       author:
         display_name: Andy
         login: admin
         email: andy@grange85.co.uk
+        url: https://www.grange85.co.uk
+      imageurl: 
       categories:
        - 
       tags:
        - 
     posts:
       layout: post
-      title: 
-      imgurl:
+      series-title: 
+      sitemap: true
       author:
         display_name: Andy
         login: admin
         email: andy@grange85.co.uk
+        url: https://www.grange85.co.uk
+      imageurl:
       categories:
        - 
       tags:
        - 
 
-excerpt_separator: <!--more-->
 
 # Build settings
-version: 4.2.0
+livereload: false
 host: 0.0.0.0
 port: 4050
 markdown: kramdown
-plugins: [
-        jekyll-feed,
-        bootstrap-sass,
-        jekyll-archives,
-        jekyll-paginate-v2
-        ]
+environment: production
+future: false
         
 exclude: [
     '_notes',
@@ -96,8 +107,6 @@ exclude: [
     'Rakefile',
     '.sass-cache',
     '.git',
-    's3cfg-prog',
-    's3cfg-prog.enc',
     'config',
     'vendor',
     'deploy.sh',
@@ -105,5 +114,4 @@ exclude: [
     '_cloudfront-distriution-id'
   ]
 keep_files:
-  - images
-excerpt_separator: <!--more-->
+    - images

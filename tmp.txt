@@ -1,0 +1,145 @@
+/**
+ * Images
+ */
+
+.opacity-0 {
+  opacity:0!important;
+}
+.opacity-1 {
+  opacity:0.2!important;
+}
+.opacity-2 {
+  opacity:0.4!important;
+}
+.opacity-3 {
+  opacity:0.6!important;
+}
+.opacity-4 {
+  opacity:.8!important;
+}
+.opacity-5 {
+  opacity:1!important;
+}
+
+.opacity-3h4 {
+  background: rgba(0, 0, 0, .5)!important;
+  transition: opacity .25s ease-in-out!important;
+  -moz-transition: opacity .25s ease-in-out!important;
+  -webkit-transition: opacity .25s ease-in-out!important;
+}
+.opacity-3h4:hover {
+  background: rgba(255, 255, 255, .8)!important;
+}
+
+
+blockquote{
+  margin:1.2rem 1.2rem 1.2rem 1.5rem;
+  padding:1.2rem;
+  border-left:8px solid $primary;
+  position: relative;
+  background:$light;
+}
+
+
+blockquote::after{
+  content: '';
+}
+
+blockquote em{
+  color:#333333;
+  font-style:italic;
+  margin-top:1em;
+}
+
+.thumb-post img {
+object-fit: none; /* Do not scale the image */
+object-position: center; /* Center the image within the element */
+width: 100%;
+max-height: 250px;
+margin-bottom: 1rem;
+}
+
+code {
+white-space : pre-wrap !important;
+}
+.navbar {
+    background-color: $primary;
+}
+/**
+ * Images
+ */
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+figure {
+    max-width: 100%;
+    height:auto;
+}
+
+figure.aligncenter img, img.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+figcaption {
+    font-style: italic;
+    text-align: right;
+    margin-bottom: 6px; 
+    color: $text-muted;
+}
+
+audio {
+    width: 100%;
+}
+
+.footer {
+}
+
+.nav-tabs>li.active>a, 
+.nav-tabs>li.active>a:hover, 
+.nav-tabs>li.active>a:focus {
+    color: #fff;
+}
+
+.jumbotron {
+background-image: url("/swirling/images/electric-elephant.jpg");
+background-size: cover;
+min-height: 400px;
+position: relative;
+}
+
+.jumbotron h1 {
+    /* Fallback for web browsers that don't support RGBa */
+    background-color: rgb(255, 255, 255);
+    /* RGBa with 0.6 opacity */
+    background-color: rgba(255, 255, 255, 0.8);
+    position: absolute;
+    bottom:0;
+}
+
+.jumbotron h1 a,
+.jumbotron h1 a:link,
+.jumbotron h1 a:visited,
+{
+    text-decoration: none;
+    color: black;
+}
+.jumbotron h1 a:hover
+{
+}
+
+
+
+.page-header h1 {
+    margin: 0;
+}
+
+code {
+  white-space : pre-wrap !important;
+  word-break: break-word;
+}
+
+/* div.fluid-width-video-wrapper {margin-bottom: $line-height-computed;} */

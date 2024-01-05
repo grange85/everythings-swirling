@@ -1,14 +1,12 @@
+{% capture buildtimestamp %}{{ "now" | date: "%Y%m%d%H%M" }}{% endcapture %}
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ page.description | strip_html | strip_newlines | truncate: 160 }}">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}?{{ site.version }}">
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-
   <link rel="canonical" href="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 <script defer data-domain="grange85.co.uk" src="https://plausible.io/js/plausible.js"></script>
