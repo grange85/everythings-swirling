@@ -12,7 +12,7 @@ author:
 date: 2021-10-11
 imageurl: https://cdn.grange85.co.uk/images/tynemouth-station-03.jpg
 categories:
- - living by the water
+  - living by the water
 tags:
  - metro
  - public transport

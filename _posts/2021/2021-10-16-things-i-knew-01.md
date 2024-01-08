@@ -12,8 +12,8 @@ author:
 date: 2021-10-16
 imageurl: https://cdn.grange85.co.uk/images/tygers-of-pan-tang-whitley-bay-rik-walton.jpg
 categories:
- - living by the water
- - music
+  - living by the water
+  - music
 tags:
   - The Tygers of Pan Tang
   - Whitley Bay

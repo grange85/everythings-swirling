@@ -18,6 +18,12 @@ entries:
       show_more: true
       show_more_text: See more...
       show_more_url: /swirling/category/music/
+    entries:
+      - title: 50 albums (2014)
+        url: /swirling/category/50-albums/
+      - title: 60 albums (2024)
+        url: /swirling/category/60-albums/
+
   - title: Film and TV
     post_list:
       limit: 3
