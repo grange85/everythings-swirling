@@ -18,6 +18,7 @@ gem "jekyll", "~> 3.9"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem 'jekyll-compose'
 end
 
 gem 'no-style-please', '~> 0.4.7'
