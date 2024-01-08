@@ -12,9 +12,10 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2019-05-08'
 categories:
- - Hitchcock
+ - hitchcock
+ - film
 tags: []
----
+ - --
 <figure class="aligncenter"><img src="{{site.baseurl}}/images/hitch/jamaica-inn-publicity-photo.jpg" class="img-responsive" /><figcaption>Jamaica Inn (1939)</figcaption></figure>
 
 ### I was worried that Hitchcock's last early British film might see him going it out with a whimper

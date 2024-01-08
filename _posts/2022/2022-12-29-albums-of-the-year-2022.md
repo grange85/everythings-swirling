@@ -12,7 +12,7 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2022-12-31'
 categories:
- - Music
+ - music
 tags:
 excerpt: |
   It seems to have been a year where I've spent a lot of time listening to music that reminds me of my past ... I guess I've reached that age? Lots of folk and indie, some glam, some metal, bits of jazz and swing. 

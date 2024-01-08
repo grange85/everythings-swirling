@@ -11,9 +11,7 @@ author:
 date: 2021-11-13
 imageurl: https://cdn.grange85.co.uk/images/relief-map-ouseburn.jpg
 categories:
- - Living by the water
- - History
- - Photos
+ - living by the water
 tags:
  - discovery museum
  - ouseburn

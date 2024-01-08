@@ -12,13 +12,13 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: 2019-06-17
 categories:
- - Archetypes
+ - film
 tags:
  - iron maiden
  - sanctuary
  - earworm
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/39091646@N06/5428406665/" title="T685301_01"><img src="https://live.staticflickr.com/5092/5428406665_35d8550aca_b.jpg" width="1024" height="744" alt="T685301_01"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/39091646@N06/5428406665/" title="T685301_01"><img src="https://live.staticflickr.com/5092/5428406665_35d8550aca_b.jpg" alt="T685301_01"></a>
 
 To be honest there are a stack of tracks that _trigger_ NWOBH in my head - but Sanctuary is a pretty fine example.
 
@@ -26,4 +26,4 @@ I first saw Maiden in February 1981 on the Killers tour at The Guildford Civic H
 
 I only saw them two or three times after this - to be honest I think they lost a bit of what made them special when Paul DiAnno was sacked - although it was pretty much the right decision for the band. I never really got on with Dickinson's voice... also by 1983 NWOBHM was pretty much done for me.
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/bbvip51V4IE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Iron Maiden - Sanctuary (1980  )</figcaption></figure>
+<figure class="caption aligncenter"><iframe src="https://www.youtube.com/embed/bbvip51V4IE" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Iron Maiden - Sanctuary (1980  )</figcaption></figure>

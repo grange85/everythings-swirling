@@ -12,9 +12,9 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2023-01-17'
 categories:
- - Film and TV
+ - film
 tags:
- - The Maltese Falcon
+ - the maltese falcon
 excerpt: |
   The 1941 film of The Maltese Falcon has long been one of my favourite films, sometimes my actual _favourite_ so over the last few weeks I have revisited it, and its original source (Dashiell Hammet's novel) and some of the other interpretations of that source - here's some thoughts ...
 

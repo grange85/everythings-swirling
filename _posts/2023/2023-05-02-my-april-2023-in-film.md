@@ -2,13 +2,13 @@
 layout: post
 title: My April 2023 in film
 categories:
-- Statistics
-- Film & TV
+- film
 imgurl: https://cdn.grange85.co.uk/images/2023-04-my-april-in-film.png
 author:
   display_name: Andy
   email: andy@grange85.co.uk
 tags:
+ - stats
 excerpt: |
   Quick summary and stats about the films I watched in April 2023.
   #Music #Cinema #Film #Cinemastodon

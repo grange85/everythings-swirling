@@ -12,10 +12,10 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2022-12-13'
 categories:
- - Christmas
- - Music
+ - christmas
+ - music
 tags:
- - The Crawdaddy Club
+ - the crawdaddy club
  - Richmond
 excerpt: |
   The Crawdaddy Club was born in Richmond in 1963 and passed away in Croydon towards the end of 1965. A few years ago the club was revived and on Friday night they had their 2022 Christmas party and I happened to be in London, and at a loose end, so decided to head along.

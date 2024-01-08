@@ -1,0 +1,47 @@
+entries:
+  - title: About
+    entries:
+      - title: about me
+        url: /swirling/about/
+      - title: rss
+        url: /swirling/feed.xml
+  - title: Latest
+    post_list: 
+      limit: 3
+      show_more: true
+      show_more_text: See all posts...
+      show_more_url: /swirling/category/all-posts/
+  - title: Music
+    post_list:
+      limit: 3
+      category: music
+      show_more: true
+      show_more_text: See more...
+      show_more_url: /swirling/category/music/
+  - title: Film and TV
+    post_list:
+      limit: 3
+      category: film
+      show_more: true
+      show_more_text: Film
+      show_more_url: /swirling/category/film/
+  - title: Other categories
+    entries:
+      - title: Hitchcock
+        url: /swirling/category/hitchcock/
+      - title: A Head Full of Wishes
+        url: /swirling/category/a-head-full-of-wishes/
+      - title: Living by the water
+        url: /swirling/category/living-by-the-water/
+      - title: Photography
+        url: /swirling/category/photography/
+      - title: sport (probably non-league football)
+        url: /swirling/category/sport/
+      - title: christmas
+        url: /swirling/category/christmas/
+      - title: Buffy the Vampire Slayer
+        url: /swirling/category/btvs/
+      - title: Miscellaneous
+        url: /swirling/category/misc/
+
+

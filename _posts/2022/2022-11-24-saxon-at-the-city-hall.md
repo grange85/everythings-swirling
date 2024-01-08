@@ -12,10 +12,9 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2022-11-24'
 categories:
- - Music
- - A nostalgia trip
+ - music
 tags:
- - Saxon
+ - saxon
  - Diamond Head
  - Heavy Metal
  - NWOBHM

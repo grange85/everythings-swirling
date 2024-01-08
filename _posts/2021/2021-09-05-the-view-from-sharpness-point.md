@@ -13,8 +13,7 @@ author:
 date: 2021-09-05
 imageurl: https://cdn.grange85.co.uk/images/the-view-from-sharpness-point.jpg
 categories:
- - Living by the water
- - Photos
+ - living by the water
 tags:
  - tynemouth
  - sharpness point

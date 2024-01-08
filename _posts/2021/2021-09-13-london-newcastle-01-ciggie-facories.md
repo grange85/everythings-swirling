@@ -13,8 +13,7 @@ author:
 date: 2021-09-13
 imageurl: https://cdn.grange85.co.uk/images/ciggie-factories.jpg
 categories:
- - Living by the water
- - Photos
+ - living by the water
 tags:
  - cigarettes
  - factories

@@ -13,8 +13,8 @@ author:
 date: 2021-09-02
 imageurl: https://cdn.grange85.co.uk/images/anne-briggs.jpg
 categories:
- - Living by the water
- - Music
+ - living by the water
+ - music
 tags:
  - anne briggs
  - london

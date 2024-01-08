@@ -12,9 +12,8 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2022-12-05'
 categories:
- - Christmas
- - Music
- - Advent Calendar 2022
+ - christmas
+ - music
 tags:
  - Dean & Britta
  - Roger Miller

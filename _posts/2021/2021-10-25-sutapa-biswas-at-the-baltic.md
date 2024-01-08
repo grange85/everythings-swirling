@@ -12,8 +12,7 @@ author:
 date: 2021-10-25
 imageurl: https://cdn.grange85.co.uk/images/sutapa-biswas-lumen-promo.jpg
 categories:
-  - Living by the water
-  - Culture
+ - living by the water
 tags:
  - sutapa biswas
  - art

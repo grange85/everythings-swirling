@@ -12,9 +12,8 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2022-12-01'
 categories:
- - Christmas
- - Music
- - Advent Calendar 2022
+ - christmas
+ - music
 tags:
 excerpt: |
   Cavendish Woodhouse were a furniture retailer who in the 70s were big enough to employ Bernie Winters for a TV ad and to license a bunch of Xmas classics for a promotional single ... well maybe not all four are classics ... but let's see:

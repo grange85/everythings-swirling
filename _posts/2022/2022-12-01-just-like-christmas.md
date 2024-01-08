@@ -12,10 +12,10 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2022-12-01'
 categories:
- - Christmas
- - Music
+ - christmas
+ - music
 tags:
- - Low
+ - low
 excerpt: |
   I love Low, in the 90s I loved them more than most bands. We drifted apart - it was definitely me, not them, they kept on developing and I wanted them to be the same, it also didn't feel right watching them in 1000+ seated venues when the band I fell in love with played dingy indie rock clubs. But, I never really stopped loving them. 
   #Low #LowTheBand #IndieMusic #Slowcore #DreamPop #JustLikeChristmas
@@ -33,7 +33,7 @@ The best Low concert I was ever at happened in November 1999 at Dingwall's - it 
 A Facebook post, in the wake of Mimi's passing, got me thinking about the show and I discovered that the Internet Archive has a brilliant recording of the show which as well as giving me a lump in my throat, confirmed my memories - this was unquestionably one of the greatest shows I was at. I didn't take a camera (I so rarely did in the days before phones) and I didn't take a recorder (which I sometimes did) but thankfully someone else had, so I didn't have the usual things that trigger my memories
 
 <figure class="aligncenter">
-<iframe src="https://archive.org/embed/Low1999-11-10.flac&playlist=1" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/Low1999-11-10.flac&playlist=1" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <figcaption><a href="https://archive.org/details/Low1999-11-10.flac/">Low Live at Dingwalls on 1999-11-10</a></figcaption></figure>
 
 What I did have, however, was [The Galaxie 500 Mailing List](https://www.fullofwishes.co.uk/2006/04/06/history-the-galaxie-500-mailing-list/), which at the time acted like a musical diary for the more active members, often with little or no link to Galaxie 500 (obv [Low did have that link though](https://en.wikipedia.org/wiki/Kramer_(musician))!). Here's what I posted to the list on my return:

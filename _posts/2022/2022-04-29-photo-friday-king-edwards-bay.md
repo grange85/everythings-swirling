@@ -13,8 +13,8 @@ author:
 date: 2022-04-29
 imageurl: https://cdn.grange85.co.uk/images/king-edwards-bay-panorama.jpg 
 categories:
- - Living by the water
- - Photos
+ - living by the water
+ - photography
 tags:
  - tynemouth
  - king edwards bay

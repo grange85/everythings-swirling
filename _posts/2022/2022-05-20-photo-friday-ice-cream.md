@@ -12,9 +12,8 @@ author:
 date: 2022-05-20
 imageurl: https://cdn.grange85.co.uk/images/north-east-ice-cream-5.jpg
 categories:
- - Living by the water
- - Photos
- - Video
+ - living by the water
+ - photography
 tags:
  - ice cream
  - whitley bay

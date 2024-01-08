@@ -13,8 +13,8 @@ author:
 date: 2021-10-01
 imageurl: https://cdn.grange85.co.uk/images/lanterns-on-the-lake-2021-09-30-01.jpg
 categories:
- - Living by the water
- - Music
+ - living by the water
+ - music
 tags:
  - lanterns on the lake
  - kathryn williams

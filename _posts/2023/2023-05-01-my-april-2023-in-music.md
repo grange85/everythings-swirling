@@ -3,18 +3,18 @@ layout: post
 title: My April 2023 in music
 date: 2023-05-01 11:26 +0100
 categories:
- - Statistics
- - Music
+ - music
 imgurl: https://cdn.grange85.co.uk/images/2023-04-albums.jpg
 author:
   display_name: Andy
   email: andy@grange85.co.uk
 tags:
+ - stats
 excerpt: |
   Quick summary and stats about the music I listened to in April 2023.
   #Music #LastFM #Listening #NowPlaying
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/35255697@N03/4437612786/in/photolist-2mSsLGK-2mSj2PP-2mSsLH1-7L8VFh-2najDeR-L4bf3N-hBMQX-QuFygk-2eg2k3k-6pvHxD-sfF98z-4u6JRn/" title="Mischa Auer, Deanna Durbin and Adolphe Menjou"><img src="https://live.staticflickr.com/4044/4437612786_7bc00b6cf6_c.jpg" width="800" height="623" alt="Mischa Auer, Deanna Durbin and Adolphe Menjou"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/35255697@N03/4437612786/in/photolist-2mSsLGK-2mSj2PP-2mSsLH1-7L8VFh-2najDeR-L4bf3N-hBMQX-QuFygk-2eg2k3k-6pvHxD-sfF98z-4u6JRn/" title="Mischa Auer, Deanna Durbin and Adolphe Menjou"><img src="https://live.staticflickr.com/4044/4437612786_7bc00b6cf6_c.jpg" alt="Mischa Auer, Deanna Durbin and Adolphe Menjou"/></a>
 ### Tracks scrobbled: 700
 
 ### Top artists:
@@ -47,10 +47,10 @@ excerpt: |
  - Never Be a Punching Bag for Nobody - Naomi Yang
 
 ### Gigs attended: 3
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/52805550554/in/datetaken-public/" title="The Cluny 2"><img src="https://live.staticflickr.com/65535/52805550554_ba06c159ce_c.jpg" width="800" height="600" alt="The Cluny 2"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/grange85/52805550554/in/datetaken-public/" title="The Cluny 2"><img src="https://live.staticflickr.com/65535/52805550554_ba06c159ce_c.jpg" alt="The Cluny 2"/></a>
  - Nina Nastasia - The Cluny 2
  - J. Zunz - The Lubber Fiend
  - Cindy - The Cumberland Arms
 
 
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+

@@ -12,9 +12,10 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2019-09-08'
 categories:
- - Hitchcock
+ - hitchcock
+ - film
 tags: []
----
+ - --
 <figure class="aligncenter"><img src="https://thejar.hitchcock.zone/files/gallery/org/8000.jpg" class="img-responsive" /><figcaption>Mr and Mrs Smith (1941)</figcaption></figure>
 Mr and Mrs Smith is a forgettable Hitchcock. I know this because I'd forgotten I'd seen it moderately recently. It's possibly not just a forgettable Hitchcock but forgettable *as* a Hitchcock.
 <figure class="aligncenter"><img src="https://thejar.hitchcock.zone/1000/Mr%20and%20Mrs%20Smith%20(1941)/0074.jpg" class="img-responsive" /><figcaption>Mr and Mrs Smith (1941)</figcaption></figure>

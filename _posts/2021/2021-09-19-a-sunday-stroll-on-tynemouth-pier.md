@@ -12,8 +12,7 @@ author:
 date: 2021-09-19
 imageurl: https://cdn.grange85.co.uk/images/tynemouth-pier-01.jpg
 categories:
- - Living by the water
- - Photos
+ - living by the water
 tags:
  - tynemouth
  - tynemouth pier

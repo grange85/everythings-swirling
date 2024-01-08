@@ -13,8 +13,7 @@ author_email: andy@grange85.co.uk
 date: '2021-02-13'
 imageurl: https://www.grange85.co.uk/swirling/images/earworm/the-stars-of-heaven.jpg
 categories:
- - Earworm
- - Music
+ - music
 tags:
 ---
 
@@ -22,7 +21,7 @@ tags:
 
 This morning I awoke to find the lovely Sacred Heart Hotel washing around inside my head - it's been a while:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zcUsnfl4ieU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zcUsnfl4ieU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I saw The Stars of Heaven just once - Ken took me (or more accurately made me take him) along to The Mean Fiddler in Harlesden for what I suspect was their last show ~ or at least their last London show - I guess sometime in 1990?
 

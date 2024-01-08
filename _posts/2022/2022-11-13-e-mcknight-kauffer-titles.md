@@ -12,9 +12,8 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2022-11-13'
 categories:
- - Hitchcock
- - Cinema
- - Graphic Design
+ - hitchcock
+ - film
 tags:
  - Hitchcock
  - E. McKnight Kauffer

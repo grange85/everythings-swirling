@@ -12,8 +12,7 @@ author:
 date: 2021-11-07
 imageurl: https://cdn.grange85.co.uk/images/ss-sjovik-longsands-03.jpg
 categories:
-  - Living by the water
-  - History
+ - living by the water
 tags:
  - tynemouth
  - longsandse

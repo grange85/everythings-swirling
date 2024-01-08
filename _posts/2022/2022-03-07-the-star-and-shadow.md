@@ -13,9 +13,8 @@ author:
 date: 2022-03-07
 imageurl: https://www.grange85.co.uk/living-by-the-water/images/star-and-shadow-01.jpg
 categories:
- - Living by the water
- - Cinema
- - Entertainment
+ - living by the water
+ - film
 tags:
  - celia
  - the star and shadow

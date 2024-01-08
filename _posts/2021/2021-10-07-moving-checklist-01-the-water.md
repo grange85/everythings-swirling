@@ -12,9 +12,7 @@ author:
 date: 2021-10-07
 imageurl: https://cdn.grange85.co.uk/images/north-shields-river-tyne.jpg
 categories:
- - Living by the water
- - Photos
- - Moving checklist
+ - living by the water
 tags:
  - thames
  - tyne

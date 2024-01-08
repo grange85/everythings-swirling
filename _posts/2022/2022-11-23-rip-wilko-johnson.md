@@ -12,10 +12,10 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2022-11-23'
 categories:
- - Music
+ - music
 tags:
- - Wilko Johnson
- - Dr Feelgood
+ - wilko johnson
+ - dr feelgood
 excerpt: |
   This morning I heard that Wilko Johnson passed away, it was sort of expected, but the fact that he was close to death nine or ten years ago and was still with us started to make it seem like he was immortal.
   #WilkoJohnson #RIP #DrFeelgood #PubRock

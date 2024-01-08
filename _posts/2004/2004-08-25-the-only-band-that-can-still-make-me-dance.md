@@ -14,7 +14,7 @@ author_url: http://
 date: '2004-08-25 08:58:22 +0100'
 date_gmt: '2004-08-25 08:58:22 +0100'
 categories:
-- "Music"
+- music
 tags: []
 ---
 Hazel and I dragged ourselves off our lazy behinds and went to see [Stereolab](http://www.stereolab.co.uk) last night for the first time in over seven years (Hazel was pregnant last time we saw them (at the Kilburn National)). 

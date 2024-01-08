@@ -13,8 +13,8 @@ author:
 date: 2021-11-23
 imageurl: https://cdn.grange85.co.uk/images/brass-in-concert-2021-3.jpg
 categories:
- - Living by the water
- - Music
+ - living by the water
+ - music
 tags:
  - brass band
  - the sage

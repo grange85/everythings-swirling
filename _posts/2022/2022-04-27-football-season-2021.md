@@ -12,9 +12,8 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2022-04-27'
 categories:
- - Living by the water
- - Sport
- - Football
+ - living by the water
+ - sport
 tags:
  - north shields fc
  - whitley bay fc

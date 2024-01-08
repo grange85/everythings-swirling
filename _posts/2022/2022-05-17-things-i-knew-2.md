@@ -12,9 +12,8 @@ author:
 date: 2022-05-17
 imageurl: 
 categories:
-  - Living by the water
-  - Things I knew
-  - Music
+ - living by the water
+ - music
 tags:
   - Motorhead
   - City Hall

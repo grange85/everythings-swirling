@@ -13,8 +13,7 @@ author:
 date: 2021-11-10
 imageurl: https://upload.wikimedia.org/wikipedia/commons/b/b3/Winslow_Homer_-_Fisherfolk_on_the_Beach_at_Cullercoats.jpg
 categories:
- - Living by the water
- - Art
+ - living by the water
 tags:
  - winslow homer
  - cullercoats

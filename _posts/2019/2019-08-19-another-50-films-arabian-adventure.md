@@ -12,9 +12,9 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2019-08-19'
 categories:
- - 50 films
+ - film
 tags: []
----
+ - --
 <figure><img src="{{site.baseurl}}/images/star-wars-with-flying-carpets.jpg" class="img-responsive" /><figcaption>Arabian Adventure</figcaption></figure>
 
 I'm sort of surprised I hadn't seen, or even heard of, Arabian Adventure until it popped up on Talking Pictures last week. It's absolutely the sort of film I should have known about. I love a bit of mythic fantasy, and I love the British take on it. But I approached it with a bit of trepidation.

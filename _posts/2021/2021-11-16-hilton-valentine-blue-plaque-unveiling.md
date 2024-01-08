@@ -11,9 +11,8 @@ author:
 date: 2021-11-16
 imageurl: https://cdn.grange85.co.uk/images/hilton-valentine-04.jpg
 categories:
- - Living by the water
- - Music
- - Photos
+ - living by the water
+ - music
 tags:
  - north shields
  - the animals

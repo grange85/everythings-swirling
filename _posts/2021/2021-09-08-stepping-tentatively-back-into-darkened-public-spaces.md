@@ -13,9 +13,8 @@ author:
 date: 2021-09-08
 imageurl: imageurl
 categories:
- - Living by the water
- - Entertainment
- - Cinema
+ - living by the water
+ - film
 tags:
  - the everyman
  - the jam jar

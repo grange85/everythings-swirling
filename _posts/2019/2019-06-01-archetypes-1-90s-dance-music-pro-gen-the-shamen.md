@@ -12,7 +12,7 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: 2019-06-01
 categories:
- - Archetypes
+ - music
 tags:
  - the shamen
  - pro>gen
@@ -26,6 +26,6 @@ I first heard the track in 1990 when it turned up on the <a href="https://open.s
 
 The rest of the double LP set was of varying quality but Pro>Gen was pretty good ... even if it couldn't make me dance.
 
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZvwcgFoJvqg" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Pro>Gen - The Shamen (1990)</figcaption></figure>
+<figure class="caption aligncenter"><iframe src="https://www.youtube.com/embed/ZvwcgFoJvqg" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Pro>Gen - The Shamen (1990)</figcaption></figure>
 
 A year later it was remixed and re-released and became a huge hit - which was also an odd experience for me - being ahead of the game!

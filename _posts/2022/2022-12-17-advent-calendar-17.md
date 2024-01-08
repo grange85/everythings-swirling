@@ -12,11 +12,10 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2022-12-17'
 categories:
- - Christmas
- - Music
- - Advent Calendar 2022
+ - music
+ - christmas
 tags:
- - The Springfields
+ - the springfields
  - Dusty Springfields
 excerpt: |
   Dusty and Tom/Dion and Tim trot out a quartet of Christmas faves in their own inimitable way - fun and jaunty and warm, the way Christmas (and therefore a Christmas EP) should be. 

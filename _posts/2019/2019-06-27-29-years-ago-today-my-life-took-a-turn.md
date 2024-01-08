@@ -12,11 +12,10 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2019-06-27'
 categories:
- - "Music"
- - "Idle nonsense"
+ - music
 tags: []
----
-<figure class="caption aligncenter"><iframe width="560" height="315" src="https://www.youtube.com/embed/ozeRVpP4T0Q?start=2302" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Subterania - 1990-06-27</figcaption></figure>
+ - --
+<figure class="caption aligncenter"><iframe src="https://www.youtube.com/embed/ozeRVpP4T0Q?start=2302" frameborder="0" allowfullscreen></iframe><figcaption class="caption-text">Galaxie 500 - Subterania - 1990-06-27</figcaption></figure>
 
 So... at, I'd guess about 22:30 on 27th June 1990 this happened which pretty much changed the course of my life ... as follows:
 

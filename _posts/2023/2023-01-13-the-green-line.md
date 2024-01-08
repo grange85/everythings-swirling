@@ -12,9 +12,11 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2023-01-13'
 categories:
- - Music
- - Transport
+ - music
 tags:
+ - transport
+ - green line
+ - coaches
 excerpt: |
   For all of my secondary school education I travelled to and from school on the 715 Green Line coach. It was also the service I used to get to my first concert, seeing Motorhead at The Hammersmith Odeon - for these reasons The Green Line has a place in my heart.
   #GilroyMere #TheGreenLine #ClayPipeMusic #NowPlaying #IndieMusic #GreenLine #LondonTransport

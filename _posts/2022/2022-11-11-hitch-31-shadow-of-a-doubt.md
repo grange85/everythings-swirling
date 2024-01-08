@@ -12,7 +12,8 @@ author_login: admin
 author_email: andy@grange85.co.uk
 date: '2022-11-11'
 categories:
- - Hitchcock
+ - hitchcock
+ - film
 tags:
 ---
 <figure><img src="{{site.baseurl}}/images/hitch/shadow-of-a-doubt-poster.jpg" class="img-responsive" /><figcaption>Shadow of a Doubt (1943)</figcaption></figure>
