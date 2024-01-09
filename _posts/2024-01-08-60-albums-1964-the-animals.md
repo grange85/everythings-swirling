@@ -4,7 +4,7 @@ title: '60 albums: 1964 - The Animals'
 imgurl: https://live.staticflickr.com/65535/53452381200_a7e9c2141e_b.jpg
 categories:
 - 60 albums
-- Music
+- music
 date: 2024-01-08 23:23 +0000
 ---
 When I reached 50 in 2014 I did a [series of posts](/swirling/category/50-albums) listening to and jotting down my thoughts on an album of each year of my life. In May this year I reach 60 so it seemed like time to try to do that again. So, welcome to [60 albums](/swirling/category/60-albums) and I'm going to start close to home... although it was a long way from home until quite recently!
