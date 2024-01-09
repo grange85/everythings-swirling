@@ -4,6 +4,10 @@ layout: page
 
 # About
 
+I'm Andy Aldridge, I'm a Londoner living in Whitley Bay. I listen to music and watch films. Most of what you find here is rambling about that.
+
+ - [Contact me](mailto:andy@grange85.co.uk)
+
 ## Elsewhere
 
  - [A Head Full of Wishes](https://www.fullofwishes.co.uk)
