@@ -1,4 +1,4 @@
-name: ES
+name: ES (not size-only)
 on:
   workflow_dispatch:
     inputs:
