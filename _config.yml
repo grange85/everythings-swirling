@@ -15,6 +15,7 @@ theme_config:
   show_description: true
 
 plausible_domain: "grange85.co.uk"
+goat_counter: grange85
 permalink: /:year/:month/:day/:title/
 
 plugins:
