@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 23 - Eux Autres - Another Christmas at Home"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/eux-autres-another-christmas.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/eux-autres-another-christmas.jpg
 author:
   display_name: Andy
   login: admin

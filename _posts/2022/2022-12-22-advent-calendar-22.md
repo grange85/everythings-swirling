@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 22 - Adam Faith - Lonely Pup in a Christmas Shop"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/adam-faith-lonlely-pup-disc.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/adam-faith-lonlely-pup-disc.jpg
 author:
   display_name: Andy
   login: admin

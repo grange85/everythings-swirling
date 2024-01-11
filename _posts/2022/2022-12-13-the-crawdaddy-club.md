@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "The Crawdaddy Club Christmas Party"
-imgurl: https://cdn.grange85.co.uk/images/crawdaddy-blues-band-2022.jpg
+image: https://cdn.grange85.co.uk/images/crawdaddy-blues-band-2022.jpg
 author:
   display_name: Andy
   login: admin

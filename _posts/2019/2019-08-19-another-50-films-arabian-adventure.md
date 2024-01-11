@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Another 50 films - 1979: Arabian Adventure"
-imgurl: 
+image: 
 author:
   display_name: Andy
   login: admin

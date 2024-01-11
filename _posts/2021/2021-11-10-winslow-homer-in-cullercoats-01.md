@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-11-10
-imageurl: https://upload.wikimedia.org/wikipedia/commons/b/b3/Winslow_Homer_-_Fisherfolk_on_the_Beach_at_Cullercoats.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/b/b3/Winslow_Homer_-_Fisherfolk_on_the_Beach_at_Cullercoats.jpg
 categories:
  - living by the water
 tags:

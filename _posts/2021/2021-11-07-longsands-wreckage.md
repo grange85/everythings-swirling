@@ -10,7 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-11-07
-imageurl: https://cdn.grange85.co.uk/images/ss-sjovik-longsands-03.jpg
+image: https://cdn.grange85.co.uk/images/ss-sjovik-longsands-03.jpg
 categories:
   - living by the water
 tags:

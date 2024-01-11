@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 11 - Marc Bolan and T.Rex - Christmas Bop"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/t-rex-christmas-bop-sleeve.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/t-rex-christmas-bop-sleeve.jpg
 author:
   display_name: Andy
   login: admin

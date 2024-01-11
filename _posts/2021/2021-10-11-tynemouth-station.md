@@ -10,7 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-10-11
-imageurl: https://cdn.grange85.co.uk/images/tynemouth-station-03.jpg
+image: https://cdn.grange85.co.uk/images/tynemouth-station-03.jpg
 categories:
   - living by the water
 tags:

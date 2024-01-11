@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 19 - Kate Bush - December Will Be Magic Aggain"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/kate-bush-christmas-magic-sleeve.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/kate-bush-christmas-magic-sleeve.jpg
 author:
   display_name: Andy
   login: admin

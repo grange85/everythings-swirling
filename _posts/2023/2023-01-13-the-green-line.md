@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "The Green Line"
-imgurl: https://cdn.grange85.co.uk/the-green-line-insert.jpg
+image: https://cdn.grange85.co.uk/the-green-line-insert.jpg
 author:
   display_name: Andy
   login: admin

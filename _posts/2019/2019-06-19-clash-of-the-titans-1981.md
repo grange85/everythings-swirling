@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Another 50 films - 1981: Clash of the Titans"
-imgurl: https://www.grange85.co.uk/swirling/images/harryhausen-medusa.jpg
+image: https://www.grange85.co.uk/swirling/images/harryhausen-medusa.jpg
 author:
   display_name: Andy
   login: admin

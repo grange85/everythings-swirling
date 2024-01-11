@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 05 - Dean & Britta - He's Coming Home / Old Toy Trains"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/dean-britta-old-toy-trains-sleeve.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/dean-britta-old-toy-trains-sleeve.jpg
 author:
   display_name: Andy
   login: admin

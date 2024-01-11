@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-09-02
-imageurl: https://cdn.grange85.co.uk/images/anne-briggs.jpg
+image: https://cdn.grange85.co.uk/images/anne-briggs.jpg
 categories:
  - living by the water
  - music

@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 18 - Luna - Egg Nog"
-imgurl: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-time-egg-nog-800.jpg
+image: https://media.fullofwishes.co.uk/02-luna/sleeves/luna-time-egg-nog-800.jpg
 author:
   display_name: Andy
   login: admin

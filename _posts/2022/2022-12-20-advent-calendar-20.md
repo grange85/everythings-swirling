@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 20 - Lionel Bart - Give Us A Kiss For Christmas"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/lionel-bart-give-us-a-kiss-disc.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/lionel-bart-give-us-a-kiss-disc.jpg
 author:
   display_name: Andy
   login: admin

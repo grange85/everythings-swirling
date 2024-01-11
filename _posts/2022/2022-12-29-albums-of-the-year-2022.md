@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "... of the year 2022"
-imgurl: 
+image: 
 author:
   display_name: Andy
   login: admin

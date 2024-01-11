@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-05-13
-imageurl: https://cdn.grange85.co.uk/images/tyne-ferry-grab.jpg
+image: https://cdn.grange85.co.uk/images/tyne-ferry-grab.jpg
 categories:
  - living by the water
 tags:

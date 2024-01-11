@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 16 - John & Yoko - Happy Xmas (War is Over) / Listen, The Snow is Falling"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/john-and-yoko-merry-xmas-disc.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/john-and-yoko-merry-xmas-disc.jpg
 author:
   display_name: Andy
   login: admin

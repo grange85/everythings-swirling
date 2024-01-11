@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Just Like Christmas - Low in London - Christmas 1999"
-imgurl: https://cdn.grange85.co.uk/images/low-shepherds-bush-empire-long-exposure.jpg
+image: https://cdn.grange85.co.uk/images/low-shepherds-bush-empire-long-exposure.jpg
 author:
   display_name: Andy
   login: admin

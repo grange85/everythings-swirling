@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 14 - Paul McCartney - Wonderful Christmastime"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/paul-mmcartney-wonderful-christmastime-sleeve.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/paul-mmcartney-wonderful-christmastime-sleeve.jpg
 author:
   display_name: Andy
   login: admin

@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 07 - Mel and Kim - Rockin' Around The Christmas Tree"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/mel-and-kim-rockin-around-sleeve.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/mel-and-kim-rockin-around-sleeve.jpg
 author:
   display_name: Andy
   login: admin

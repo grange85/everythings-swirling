@@ -3,7 +3,7 @@ layout: post
 title: My October 2023 in film
 categories:
 - film
-imgurl: https://cdn.grange85.co.uk/images/my-october-2023-in-film.png
+image: https://cdn.grange85.co.uk/images/my-october-2023-in-film.png
 author:
   display_name: Andy
   email: andy@grange85.co.uk

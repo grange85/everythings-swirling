@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hitch #33: Spellbound'
-imgurl:
+image:
 author:
   display_name: Andy
   login: admin

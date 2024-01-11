@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "RIP Wilko Johnson"
-imgurl: https://cdn.grange85.co.uk/images/dr-feelgood-roxette.jpg
+image: https://cdn.grange85.co.uk/images/dr-feelgood-roxette.jpg
 author:
   display_name: Andy
   login: admin

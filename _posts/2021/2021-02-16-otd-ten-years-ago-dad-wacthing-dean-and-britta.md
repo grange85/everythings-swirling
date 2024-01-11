@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "OTD ten years ago - my dad watching Dean & Britta in Brighton"
-imgurl: https://lh3.googleusercontent.com/2LvOfRYqyc9ya_NbOYXX28sX_vN1nEp_BJhg2Fx4QRJpPT413iPxdz0kVyiigvW8HQXmKR_GAjMxUERV-2ZlhMgavJHVoKH4EoQ6X929OjjK267nhIJCTUSwBGfB2L_O59vT2A3xzu0=w2400
+image: https://lh3.googleusercontent.com/2LvOfRYqyc9ya_NbOYXX28sX_vN1nEp_BJhg2Fx4QRJpPT413iPxdz0kVyiigvW8HQXmKR_GAjMxUERV-2ZlhMgavJHVoKH4EoQ6X929OjjK267nhIJCTUSwBGfB2L_O59vT2A3xzu0=w2400
 author:
   display_name: Andy
   login: admin

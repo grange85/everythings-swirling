@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 08 - Dora Bryan - All I Want For Christmas is a Beatle"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/dora-bryan-all-i-want-disc.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/dora-bryan-all-i-want-disc.jpg
 author:
   display_name: Andy
   login: admin

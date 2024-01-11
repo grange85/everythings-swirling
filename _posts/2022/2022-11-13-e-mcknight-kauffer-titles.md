@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Edward McKnight Kauffer's film titles"
-imgurl: 
+image: 
 author:
   display_name: Andy
   login: admin

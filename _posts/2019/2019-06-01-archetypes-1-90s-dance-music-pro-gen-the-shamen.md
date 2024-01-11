@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Archetypes #1 - 90s dance music - Pro>Gen by The Shamen"
-imgurl: 
+image: 
 author:
   display_name: Andy
   login: admin

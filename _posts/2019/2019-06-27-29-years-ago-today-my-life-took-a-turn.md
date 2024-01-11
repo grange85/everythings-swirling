@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "29 years ago today my life took a turn"
-imgurl: https://www.grange85.co.uk/swirling/images/harryhausen-medusa.jpg
+image: https://www.grange85.co.uk/swirling/images/harryhausen-medusa.jpg
 author:
   display_name: Andy
   login: admin

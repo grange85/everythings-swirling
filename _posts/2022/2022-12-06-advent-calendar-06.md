@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 06 - Nina and Frederik"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/nina-and-frederik-christmas-at-home-sleeve.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/nina-and-frederik-christmas-at-home-sleeve.jpg
 author:
   display_name: Andy
   login: admin

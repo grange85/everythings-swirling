@@ -1,6 +1,6 @@
 ---
 layout: post
-imgurl: https://live.staticflickr.com/65535/53217699740_18d544849c_c.jpg
+image: https://live.staticflickr.com/65535/53217699740_18d544849c_c.jpg
 title: The Beast from 20,000 Fathoms - Whitley Bay Film Festival
 categories:
 - film

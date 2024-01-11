@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 01 - Cavendish Woodhouse present Sounds Like Christmas!"
-imgurl: 
+image: 
 author:
   display_name: Andy
   login: admin

@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-04-29
-imageurl: https://cdn.grange85.co.uk/images/king-edwards-bay-panorama.jpg 
+image: https://cdn.grange85.co.uk/images/king-edwards-bay-panorama.jpg 
 categories:
  - living by the water
 tags:

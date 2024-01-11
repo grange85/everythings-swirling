@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '60 albums: 1964 - The Animals'
-imgurl: https://live.staticflickr.com/65535/53452381200_a7e9c2141e_b.jpg
+image: https://live.staticflickr.com/65535/53452381200_a7e9c2141e_b.jpg
 categories:
 - 60 albums
 - music

@@ -3,7 +3,7 @@ layout: post
 title: My April 2023 in film
 categories:
 - film
-imgurl: https://cdn.grange85.co.uk/images/2023-04-my-april-in-film.png
+image: https://cdn.grange85.co.uk/images/2023-04-my-april-in-film.png
 author:
   display_name: Andy
   email: andy@grange85.co.uk

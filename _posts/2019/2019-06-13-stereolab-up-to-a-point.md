@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Stereolab half-love"
-imgurl: https://live.staticflickr.com/65535/48052192801_240c8c0bd5_c.jpg
+image: https://live.staticflickr.com/65535/48052192801_240c8c0bd5_c.jpg
 author:
   display_name: Andy
   login: admin

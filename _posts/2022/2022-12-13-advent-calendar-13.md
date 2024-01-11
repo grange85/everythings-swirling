@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 13 - Joan Sutherland - The Twelve Days of Christmas"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/joan-sutherland-twelve-days-disc.jpg 
+image: https://cdn.grange85.co.uk/xmas-singles/joan-sutherland-twelve-days-disc.jpg 
 author:
   display_name: Andy
   login: admin

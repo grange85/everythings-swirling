@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Bromley's significant residents"
-imgurl: 
+image: 
 author:
   display_name: Andy
   login: admin

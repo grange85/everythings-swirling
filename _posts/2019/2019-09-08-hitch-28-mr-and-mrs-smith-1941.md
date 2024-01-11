@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Hitch #28 - Mr and Mrs Smith (1941)"
-imgurl: https://thejar.hitchcock.zone/files/gallery/org/8000.jpg
+image: https://thejar.hitchcock.zone/files/gallery/org/8000.jpg
 author:
   display_name: Andy
   login: admin

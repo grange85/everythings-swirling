@@ -10,7 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2022-05-20
-imageurl: https://cdn.grange85.co.uk/images/north-east-ice-cream-5.jpg
+image: https://cdn.grange85.co.uk/images/north-east-ice-cream-5.jpg
 categories:
  - living by the water
 tags:

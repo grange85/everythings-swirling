@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 15 - Mud - Lonely This Christmas"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/mud-lonely-this-christmas-2-sleeve.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/mud-lonely-this-christmas-2-sleeve.jpg
 author:
   display_name: Andy
   login: admin

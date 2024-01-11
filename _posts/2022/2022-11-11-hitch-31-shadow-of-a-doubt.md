@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Hitch #31 - Shadow of a Doubt (1943)"
-imgurl: 
+image: 
 author:
   display_name: Andy
   login: admin

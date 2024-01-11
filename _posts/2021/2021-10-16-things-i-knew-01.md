@@ -10,7 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-10-16
-imageurl: https://cdn.grange85.co.uk/images/tygers-of-pan-tang-whitley-bay-rik-walton.jpg
+image: https://cdn.grange85.co.uk/images/tygers-of-pan-tang-whitley-bay-rik-walton.jpg
 categories:
   - living by the water
   - music

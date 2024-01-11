@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Saxon and Diamond Head and the Newcastle City Hall"
-imgurl: https://cdn.grange85.co.uk/images/2022-11-18-saxon-ncl-02.jpg
+image: https://cdn.grange85.co.uk/images/2022-11-18-saxon-ncl-02.jpg
 author:
   display_name: Andy
   login: admin

@@ -10,7 +10,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-10-07
-imageurl: https://cdn.grange85.co.uk/images/north-shields-river-tyne.jpg
+image: https://cdn.grange85.co.uk/images/north-shields-river-tyne.jpg
 categories:
  - living by the water
 tags:

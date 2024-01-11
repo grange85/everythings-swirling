@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 21 - Elvis Presley - Santa Claus is Back in Town"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/elvis-santa-clause-is-back-in-town-sleeve.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/elvis-santa-clause-is-back-in-town-sleeve.jpg
 author:
   display_name: Andy
   login: admin

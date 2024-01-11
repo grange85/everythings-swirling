@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Another 50 films - 1987: Matewan (John Sayles)"
-imgurl: 
+image: 
 author:
   display_name: Andy
   login: admin

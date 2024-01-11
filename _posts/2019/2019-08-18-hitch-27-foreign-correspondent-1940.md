@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Hitch #27 - Foreign Correspondent (1940)"
-imgurl: https://thejar.hitchcock.zone/files/gallery/org/7503.jpg
+image: https://thejar.hitchcock.zone/files/gallery/org/7503.jpg
 author:
   display_name: Andy
   login: admin

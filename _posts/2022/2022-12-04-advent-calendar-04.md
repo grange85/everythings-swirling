@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 04 - Bruce Springsteen - Santa Claus is Coming to Town"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/bruce-springsteen-santa-clause-sleeve.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/bruce-springsteen-santa-clause-sleeve.jpg
 author:
   display_name: Andy
   login: admin

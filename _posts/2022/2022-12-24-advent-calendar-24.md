@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 24 - The Wombles - Wombling Merry Christmas"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/wombling-merry-christmas-disc.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/wombling-merry-christmas-disc.jpg
 author:
   display_name: Andy
   login: admin

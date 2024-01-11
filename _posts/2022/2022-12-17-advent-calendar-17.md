@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 17 - Christmas With The Springfields"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/christmas-with-the-springfields-sleeve.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/christmas-with-the-springfields-sleeve.jpg
 author:
   display_name: Andy
   login: admin

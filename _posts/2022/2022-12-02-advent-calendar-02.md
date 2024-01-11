@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 02 - The Goons - I'm Walking Backwards for Christmas"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/the-goons-walking-backwards-sleeve.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/the-goons-walking-backwards-sleeve.jpg
 author:
   display_name: Andy
   login: admin

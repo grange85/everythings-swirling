@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 09 - Low - If You Were Born Today / Blue Christmas"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/low-if-you-were-born-sleeve.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/low-if-you-were-born-sleeve.jpg
 author:
   display_name: Andy
   login: admin

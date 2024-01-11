@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 12 - The Goodies - Make a Daft Noise for Christmas"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/the-goodies-make-a-daft-noise-disc.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/the-goodies-make-a-daft-noise-disc.jpg
 author:
   display_name: Andy
   login: admin

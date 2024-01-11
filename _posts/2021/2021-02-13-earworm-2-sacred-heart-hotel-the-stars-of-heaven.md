@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Earworm #2 - Sacred Heart Hotel by The Stars of Heaven"
-imgurl: 
+image: 
 author:
   display_name: Andy
   login: admin
@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: andy@grange85.co.uk
 date: '2021-02-13'
-imageurl: https://www.grange85.co.uk/swirling/images/earworm/the-stars-of-heaven.jpg
+image: https://www.grange85.co.uk/swirling/images/earworm/the-stars-of-heaven.jpg
 categories:
  - music
 tags:

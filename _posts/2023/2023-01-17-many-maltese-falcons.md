@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Lots of Maltese Falcons"
-imgurl: 
+image: 
 author:
   display_name: Andy
   login: admin

@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 10 - Mark Peters - The Box Of Delights"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/mark-peters-box-of-delights-sleeve.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/mark-peters-box-of-delights-sleeve.jpg
 author:
   display_name: Andy
   login: admin

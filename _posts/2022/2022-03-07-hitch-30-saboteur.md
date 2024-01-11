@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Hitch #30 - Saboteur (1942)"
-imgurl: 
+image: 
 author:
   display_name: Andy
   login: admin

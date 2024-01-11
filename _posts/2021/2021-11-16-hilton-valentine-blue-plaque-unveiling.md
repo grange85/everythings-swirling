@@ -9,7 +9,7 @@ author:
   display_name: Andy
   email: andy@grange85.co.uk
 date: 2021-11-16
-imageurl: https://cdn.grange85.co.uk/images/hilton-valentine-04.jpg
+image: https://cdn.grange85.co.uk/images/hilton-valentine-04.jpg
 categories:
  - living by the water
  - music

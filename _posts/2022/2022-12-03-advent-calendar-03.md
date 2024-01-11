@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Advent Calendar - 03 - Dixieland Band from Santa Claus Land"
-imgurl: https://cdn.grange85.co.uk/xmas-singles/dixieland-band-from-santa-claus-land.jpg
+image: https://cdn.grange85.co.uk/xmas-singles/dixieland-band-from-santa-claus-land.jpg
 author:
   display_name: Andy
   login: admin

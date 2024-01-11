@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Another 50 films - 2018: Mortal Engines (Christian Rivers)"
-imgurl: 
+image: 
 author:
   display_name: Andy
   login: admin

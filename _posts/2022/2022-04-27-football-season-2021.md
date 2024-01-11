@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "A football season in the North East"
-imgurl: 
+image: 
 author:
   display_name: Andy
   login: admin

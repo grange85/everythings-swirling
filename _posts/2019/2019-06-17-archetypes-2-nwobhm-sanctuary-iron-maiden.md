@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Archetypes #2 - NWOBHM - Sanctuary by Iron Maiden"
-imgurl: 
+image: 
 author:
   display_name: Andy
   login: admin

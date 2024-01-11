@@ -11,7 +11,7 @@ author:
   email: andy@grange85.co.uk
   url: http://www.grange85.co.uk
 date: 2021-11-23
-imageurl: http://cdn.grange85.co.uk/images/brass-in-concert-2021-3.jpg
+image: http://cdn.grange85.co.uk/images/brass-in-concert-2021-3.jpg
 categories:
  - living by the water
  - music
