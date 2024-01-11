@@ -13,7 +13,7 @@ theme_config:
   date_format: "%Y-%m-%d"
   show_description: true
 
-site.plausible_domain: grange85.co.uk
+site.plausible_domain: "grange85.co.uk"
 permalink: /:year/:month/:day/:title/
 
 plugins:
