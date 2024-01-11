@@ -8,7 +8,7 @@ baseurl: "/swirling"
 url: "https://www.grange85.co.uk" 
 theme: no-style-please
 theme_config:
-  appearance: "dark"
+  appearance: "light"
   back_home_text: "<-- back to home"
   date_format: "%Y-%m-%d"
   show_description: true
@@ -18,13 +18,27 @@ permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-feed
 
+main_categories:
+  - 50 albums
+  - 60 albums
+  - a head full of wishes
+  - btvs
+  - christmas
+  - film
+  - hitchcock
+  - living by the water
+  - misc
+  - music
+  - photography
+  - sport
+
 jekyll-compose:
   auto_open: true
   default_front_matter:
     drafts:
       layout: post
       title: 
-      imgurl: 
+      image: 
       author:
         display_name: Andy
         login: admin
@@ -36,7 +50,7 @@ jekyll-compose:
     posts:
       layout: post
       title: 
-      imgurl:
+      image:
       author:
         display_name: Andy
         login: admin
@@ -45,7 +59,6 @@ jekyll-compose:
        - 
       tags:
        - 
-
 
 
 excerpt_separator: <!--more-->
