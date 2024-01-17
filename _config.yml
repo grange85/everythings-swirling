@@ -1,25 +1,13 @@
-# Welcome to Jekyll!
-
+#  Site settings
 title: Everything's swirling
+
 author: Andy Aldridge
 email: andy@grange85.co.uk
+baseurl: /swirling 
+url: https://www.grange85.co.uk 
+domain: 
 description: > 
   It's what I am.
-baseurl: "/swirling" 
-url: "https://www.grange85.co.uk" 
-theme: no-style-please
-theme_config:
-  appearance: "light"
-  back_home_text: "<-- back to home"
-  date_format: "%Y-%m-%d"
-  show_description: true
-
-plausible_domain: "grange85.co.uk"
-goat_counter: grange85
-permalink: /:year/:month/:day/:title/
-
-plugins:
-  - jekyll-feed
 
 main_categories:
   - 50 albums
@@ -35,60 +23,76 @@ main_categories:
   - photography
   - sport
 
-jekyll-compose:
+permalink: /:year/:month/:day/:title/
+plausible_domain: "grange85.co.uk"
+goat_counter: grange85
+
+theme: no-style-please
+theme_config:
+  appearance: "light"
+  back_home_text: "<-- back to home"
+  date_format: "%Y-%m-%d"
+  show_description: true
+
+jekyll_compose:
   auto_open: true
   default_front_matter:
     drafts:
       layout: post
-      title: 
-      image: 
-      author:
+      sitemap: true
+      series-title: 
+      github-comments-issueid: 
+      author: 
         display_name: Andy
         login: admin
         email: andy@grange85.co.uk
+        url: https://www.grange85.co.uk
+      image:
       categories:
        - 
-      tags:
+      tags: 
        - 
     posts:
       layout: post
-      title: 
-      image:
+      sitemap: true
+      series-title: 
+      github-comments-issueid: 
       author:
         display_name: Andy
         login: admin
         email: andy@grange85.co.uk
+        url: https://www.grange85.co.uk
+      image: 
       categories:
        - 
       tags:
        - 
 
-
-excerpt_separator: <!--more-->
-
 # Build settings
-version: 4.2.0
+livereload: false
 host: 0.0.0.0
 port: 4050
 markdown: kramdown
-plugins: [
-        ]
+environment: production
+future: false
         
-exclude: [
-    '_notes',
-    'Gemfile',
-    'Gemfile.lock',
-    'Rakefile',
-    '.sass-cache',
-    '.git',
-    's3cfg-prog',
-    's3cfg-prog.enc',
-    'config',
-    'vendor',
-    'deploy.sh',
-    '_deploy',
-    '_cloudfront-distriution-id'
-  ]
+# default excludes
+exclude:
+  - vendor
+  - _notes
+  - Rakefile
+  - .git
+  - config
+  - _deploy
+  - _site
+  - .jekyll-cache
+  - "*.swp"
+  - "*.swo"
+  - "*.swn"
+
 keep_files:
   - images
-excerpt_separator: <!--more-->
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
