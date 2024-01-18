@@ -3,11 +3,25 @@ title: Everything's swirling
 
 author: Andy Aldridge
 email: andy@grange85.co.uk
-baseurl: /swirling 
 url: https://www.grange85.co.uk 
 domain: 
 description: > 
   It's what I am.
+baseurl: "" 
+url: "https://www.grange85.co.uk" 
+theme: no-style-please
+theme_config:
+  appearance: "light"
+  back_home_text: "<-- back to home"
+  date_format: "%Y-%m-%d"
+  show_description: true
+
+plausible_domain: "grange85.co.uk"
+goat_counter: grange85
+permalink: /swirling/:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
 
 main_categories:
   - 50 albums
@@ -22,17 +36,6 @@ main_categories:
   - music
   - photography
   - sport
-
-permalink: /:year/:month/:day/:title/
-plausible_domain: "grange85.co.uk"
-goat_counter: grange85
-
-theme: no-style-please
-theme_config:
-  appearance: "light"
-  back_home_text: "<-- back to home"
-  date_format: "%Y-%m-%d"
-  show_description: true
 
 jekyll_compose:
   auto_open: true
