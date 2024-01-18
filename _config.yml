@@ -5,7 +5,7 @@ author: Andy Aldridge
 email: andy@grange85.co.uk
 description: > 
   It's what I am.
-baseurl: "/swirling" 
+baseurl: "" 
 url: "https://www.grange85.co.uk" 
 theme: no-style-please
 theme_config:
@@ -16,7 +16,7 @@ theme_config:
 
 plausible_domain: "grange85.co.uk"
 goat_counter: grange85
-permalink: /:year/:month/:day/:title/
+permalink: /swirling/:year/:month/:day/:title/
 
 plugins:
   - jekyll-feed
