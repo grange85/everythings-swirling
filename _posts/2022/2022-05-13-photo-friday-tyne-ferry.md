@@ -24,7 +24,7 @@ I'm pretty sure I'll never get tired of river crossings by ferry so having the S
 {% ahfowimage "https://cdn.grange85.co.uk/images/tyne-ferry-grab.jpg" "The Shields Ferry" %}
 
 <figure class="embed-responsive-item figure text-center">
-<video width="800" height="450" controls>
+<video controls>
   <source src="https://cdn.grange85.co.uk/video/shields-ferry-turns.mp4" type="video/mp4">
 Sorry, your browser does not support the video tag.
 </video> 
