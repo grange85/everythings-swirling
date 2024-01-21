@@ -17,6 +17,7 @@ tags:
 - dusty springfield
 - dusty in memphis
 - dusty in memphis plus
+date: 2024-01-26 00:00 +0000
 ---
 So... here's my first dip into Hazel's collection and, in a slight cheat, this is actually a 1985 reissue of _Dusty in Memphis_ with bonus tracks and titled _Dusty in Memphis... plus_ - and proves that squeezing bonus tracks onto album reissues to try and get people to buy _another_ copy of an album they already own pre-dates CDs!
 
