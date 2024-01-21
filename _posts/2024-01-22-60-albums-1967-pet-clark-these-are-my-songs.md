@@ -16,6 +16,7 @@ categories:
 tags:
 - petula clark
 - don't sleep in the subway
+date: 2024-01-22 00:00 +0000
 ---
 I've always had a soft spot for Petula Clark, maybe because she was in a couple of my favourite films ([IKWIG](https://en.wikipedia.org/wiki/I_Know_Where_I%27m_Going!) and [The Card](https://en.wikipedia.org/wiki/The_Card_(1952_film))), and [she's danced with Fred Astaire](https://www.youtube.com/watch?v=v6Wp4GiCGkw). Plus, [Downtown](https://www.youtube.com/watch?v=9SsuPw0tqCE) was apparently the first song I sang.
 
