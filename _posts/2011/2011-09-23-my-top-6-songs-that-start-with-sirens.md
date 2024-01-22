@@ -55,3 +55,6 @@ First up obviously (well it was obvious to me)...
 
 {% ahfowvideo "yfHbOSBWAeA" "Scour - Doom (Thanks H W via email)" "https://cdn.grange85.co.uk/sirens/scour-doom.jpg" %}
 
+{% ahfowvideo "GRnTVvyNXdc" "Jethro Tull - War Child (Thanks Peter via email)" "https://cdn.grange85.co.uk/sirens/war-child-jethro-tull.jpg" %}
+
+
