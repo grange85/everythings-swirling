@@ -1,0 +1,12 @@
+p.caption, figcaption.figure-caption {
+	font-size: 0.85rem;
+	text-align: right;
+}
+p.caption:before, figcaption.figure-caption:before {
+	content: '\2014 ';
+}
+audio {
+	width: 100%;
+	display: block;
+	margin: 0 auto;
+}
