@@ -24,12 +24,12 @@ I assumed that I had seen All Quiet on The Western Front before, it is after all
 
 The film is astonishing, everything about it. 
 
-The cast, particularly Lew Ayres as Paul, and Louis Wolheim as Kat. 
+ - The cast, particularly Lew Ayres as Paul, and Louis Wolheim as Kat. 
 
-The story and how it's told, not hurried, but fully engrossing - it's a long film that didn't seem long, and almost didn't seem long enough. 
+ - The story and how it's told, not hurried, but fully engrossing - it's a long film that didn't seem long, and almost didn't seem long enough. 
 
-The way the film has been made - no punches are pulled, you are so close to the action, and the nightmare that is war, you are in the trenches, and dugouts and foxholes with these young men, you are with them when they die or get maimed. 
+ - The way the film has been made - no punches are pulled, you are so close to the action, and the nightmare that is war, you are in the trenches, and dugouts and foxholes with these young men, you are with them when they die or get maimed. 
 
-And the message - this is an anti-war film (and an anti-patriotism film), and its message is so strong and unambiguous that it's hard to believe that 94 years on  we are still sending young people off to die for _their country_.
+ - And the message - this is an anti-war film (and an anti-patriotism film), and its message is so strong and unambiguous that it's hard to believe that 94 years on  we are still sending young people off to die for _their country_.
 
 {% ahfowimage "https://live.staticflickr.com/1946/45554332462_60e2707b9a_c.jpg" "Lew Ayres and Louis Wolheim in All Quiet on the Western Front (1930)" "https://www.flickr.com/photos/truusbobjantoo/45554332462/" %}
