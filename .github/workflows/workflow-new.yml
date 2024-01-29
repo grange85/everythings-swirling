@@ -44,7 +44,9 @@ jobs:
         if: "!contains(github.event.head_commit.message, '[data]')"
         run: >
           aws s3 sync --delete --size-only --exclude '.sass-cache' _deploy s3://www-new.grange85.co.uk/
-      - name: Invalidate cloudfront
+      - name: Invalidate www cloudfront
         run:
           aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.CDN_DISTRIBUTION_ID_WWW }} --paths "/*"
+      - name: Invalidate cdn cloudfront
+        run:
           aws cloudfront create-invalidation --no-cli-pager --distribution-id ${{ secrets.CDN_DISTRIBUTION_ID_CDN }} --paths "/*"
