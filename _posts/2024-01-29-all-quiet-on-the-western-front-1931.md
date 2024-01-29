@@ -18,7 +18,7 @@ tags:
 - lew ayres
 date: 2024-01-29 00:00 +0000
 ---
-I assumed that I'd seen All Quiet on The Western Front before, it is after all a very important bit of cinema, and cinema history, so surely at some point in my love of cinema I had seen it. Turns out that I hadn't. So I almost reached 60 before I got to see it, which is a terrible oversight.
+I assumed that I had seen All Quiet on The Western Front before, it is after all a very important bit of cinema, and cinema history, so surely at some point in my love of cinema I had seen it. Turns out that I hadn't. So I almost reached 60 before I got to see it, which is a terrible oversight.
 
 {% ahfowimage "https://live.staticflickr.com/1946/31732493128_50f4a7e82a_c.jpg" "Lew Ayres, Louis Wolheim and Owen Davis jr. in All Quiet on the Western Front (1930)" "https://www.flickr.com/photos/truusbobjantoo/31732493128/" %}
 
