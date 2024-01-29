@@ -24,7 +24,7 @@ I assumed that I'd seen All Quiet on The Western Front before, it is after all a
 
 The film is astonishing, everything about it. 
 
-The cast, particularly Lew Ayers as Paul, and Louis Wolheim as Katr. 
+The cast, particularly Lew Ayers as Paul, and Louis Wolheim as Kat. 
 
 The story and how it's told, not hurried, but fully engrossing - it's a long film that didn't seem long, and almost didn't seem long enough. 
 
