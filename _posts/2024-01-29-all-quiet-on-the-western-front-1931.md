@@ -15,7 +15,7 @@ categories:
 tags:
 - all quiet on the western front
 - lewis milestone
-- lew ayers
+- lew ayres
 date: 2024-01-29 00:00 +0000
 ---
 I assumed that I'd seen All Quiet on The Western Front before, it is after all a very important bit of cinema, and cinema history, so surely at some point in my love of cinema I had seen it. Turns out that I hadn't. So I almost reached 60 before I got to see it, which is a terrible oversight.
@@ -24,7 +24,7 @@ I assumed that I'd seen All Quiet on The Western Front before, it is after all a
 
 The film is astonishing, everything about it. 
 
-The cast, particularly Lew Ayers as Paul, and Louis Wolheim as Kat. 
+The cast, particularly Lew Ayres as Paul, and Louis Wolheim as Kat. 
 
 The story and how it's told, not hurried, but fully engrossing - it's a long film that didn't seem long, and almost didn't seem long enough. 
 
