@@ -33,4 +33,3 @@ The way the film has been made - no punches are pulled, you are so close to the 
 And the message - this is an anti-war film (and an anti-patriotism film), and its message is so strong and unambiguous that it's hard to believe that 94 years on  we are still sending young people off to die for _their country_.
 
 {% ahfowimage "https://live.staticflickr.com/1946/45554332462_60e2707b9a_c.jpg" "Lew Ayres and Louis Wolheim in All Quiet on the Western Front (1930)" "https://www.flickr.com/photos/truusbobjantoo/45554332462/" %}
-
