@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://live.staticflickr.com/65535/53508460278_f93f4d0b47_c.jpg
 categories:
 - 60 albums
 - music
@@ -17,10 +17,11 @@ tags:
 - treasure island
 - spike milligan
 - bernard miles
+date: 2024-02-07 00:00 +0000
 ---
 Over Christmas in 1974 The Mermaid Theatre in Blackfriars presented "Treasure Island: A Musical Adventure", with Bernard Miles as Long John Silver, Willie Rushton as Squire Trelawney,and, probably significantly for me, Spike Milligan as Ben Gunn.
 
-{% ahfowimage "url" "caption" %}
+{% ahfowimage "https://live.staticflickr.com/65535/53508460278_f93f4d0b47_c.jpg" "Treasure Island: A Musical starring Bernard Miles and Spike Milligan" "https://www.flickr.com/photos/grange85/53508460278/in/dateposted/" %}
 
 I was ten years old and had become quite a Spike fan in the previous years which mostly manifested itself by reading books of Goon Show scripts, and occasionally getting lucky enough to hear one on the radio. So, my dad took me to see Spike in Treasure Island, I can only assume that it was my Spike love explains why Helen and Anton weren't invited along.
 
