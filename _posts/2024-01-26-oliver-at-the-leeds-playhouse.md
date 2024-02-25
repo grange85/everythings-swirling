@@ -2,7 +2,6 @@
 layout: post
 title: Leeds and Oliver! at The Leeds Playhouse
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

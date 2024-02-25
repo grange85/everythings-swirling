@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '60 albums: 1969 - Dusty in Memphis'
+series-title: 60 albums
+title: '1969 - Dusty in Memphis'
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

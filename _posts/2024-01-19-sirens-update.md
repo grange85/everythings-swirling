@@ -2,7 +2,6 @@
 layout: post
 title: Sirens update
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

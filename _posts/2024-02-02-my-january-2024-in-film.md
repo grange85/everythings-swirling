@@ -3,7 +3,6 @@ layout: post
 title: My January 2024 in film
 date: 2024-02-02 09:15 +0000
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

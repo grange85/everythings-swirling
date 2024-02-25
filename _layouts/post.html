@@ -16,7 +16,9 @@ layout: default
   {% endif %}
   </p>
   
-  <h2>{{ page.title }}</h2>
+  <h2>{%-if page.series-title-%}<span class="series-title">{{ page.series-title }}</span><br>{%-endif-%}{{ page.title }}</h2>
 
   {{ content }}
 </article>
+
+{%-include next_prev_nav.html-%}

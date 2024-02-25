@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '60 albums: 1977 - The Sex Pistols - Never Mind The Bollocks Here''s...'
+series-title: 60 albums
+title: '1977 - The Sex Pistols - Never Mind The Bollocks Here''s...'
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

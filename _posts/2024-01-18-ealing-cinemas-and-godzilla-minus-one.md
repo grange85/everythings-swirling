@@ -2,7 +2,6 @@
 layout: post
 title: Ealing cinemas and Godzilla Minus One
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

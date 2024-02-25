@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '60 albums: 1973 - Status Quo - Hello'
+series-title: 60 albums
+title: '1973 - Status Quo - Hello'
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

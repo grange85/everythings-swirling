@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '60 albums: 1979 - Barbara Thompson''s Paraphernalia - Wilde Tales'
+series-title: 60 albums
+title: '1979 - Barbara Thompson''s Paraphernalia - Wilde Tales'
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

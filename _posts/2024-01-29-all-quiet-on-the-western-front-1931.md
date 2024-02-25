@@ -2,7 +2,6 @@
 layout: post
 title: All Quiet on The Western Front (1930)
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

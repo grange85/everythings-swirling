@@ -1,6 +1,7 @@
 ---
 layout: post
-title: '60 albums: 1966 - Otis Blue / Otis Redding Sings Soul'
+series-title: 60 albums
+title: '1966 - Otis Blue / Otis Redding Sings Soul'
 image: https://live.staticflickr.com/65535/53461851964_e6f48a1956_c.jpg
 categories:
 - 60 albums

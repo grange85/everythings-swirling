@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '60 albums: 1982 - Church of Hawkwind'
+series-title: 60 albums
+title: '1982 - Church of Hawkwind'
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

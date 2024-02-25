@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '60 albums: 1975 - Rita Lee & Tutti Frutti - Fruto Proibido'
+series-title: 60 albums
+title: '1975 - Rita Lee & Tutti Frutti - Fruto Proibido'
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

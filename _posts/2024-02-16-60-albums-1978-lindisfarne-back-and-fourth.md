@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '60 albums: 1978 - Lindisfarne - Back and Fourth'
+series-title: 60 albums
+title: '1978 - Lindisfarne - Back and Fourth'
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

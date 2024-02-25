@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '60 albums: 1970 - Vashti Bunyan - Just Another Diamond Day'
+series-title: 60 albums
+title: '1970 - Vashti Bunyan - Just Another Diamond Day'
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '60 albums: 1972 - Black Sabbath - Vol4'
+series-title: 60 albums
+title: '1972 - Black Sabbath - Vol4'
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

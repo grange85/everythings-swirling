@@ -1,6 +1,7 @@
 ---
 layout: post
-title: '60 albums: 1965 - The Beatles - Help! (Original Motion Picture Soundtrack)'
+series-title: 60 albums
+title: '1965 - The Beatles - Help! (Original Motion Picture Soundtrack)'
 image: https://live.staticflickr.com/65535/53457357694_8effaae568_c.jpg
 author:
   display_name: Andy

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '60 albums: 1967 - Pet Clark - These Are My Songs'
+series-title: 60 albums
+title: '1967 - Pet Clark - These Are My Songs'
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

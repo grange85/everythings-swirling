@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '60 albums: 1968 - The Pretty Things - S. F. Sorrow'
+series-title: 60 albums
+title: '1968 - The Pretty Things - S. F. Sorrow'
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

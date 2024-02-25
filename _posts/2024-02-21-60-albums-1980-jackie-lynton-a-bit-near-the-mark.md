@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '60 albums: 1980 - Jackie Lynton - A Bit Near The Mark'
+series-title: 60 albums
+title: '1980 - Jackie Lynton - A Bit Near The Mark'
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

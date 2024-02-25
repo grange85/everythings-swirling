@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '60 albums: 1971 - Paul and Linda McCartney - RAM'
+series-title: 60 albums
+title: '1971 - Paul and Linda McCartney - RAM'
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy

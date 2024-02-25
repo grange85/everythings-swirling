@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '60 albums: 1976 - Steeleye Span - Rocket Cottage'
+series-title: 60 albums
+title: '1976 - Steeleye Span - Rocket Cottage'
 sitemap: true
-series-title:
 github-comments-issueid:
 author:
   display_name: Andy
