@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1985 - The Pogues - Rum, Sodomy and The Lash'
+title: 1985 - The Pogues - Rum, Sodomy and The Lash
 sitemap: true
 series-title: 60 albums
 github-comments-issueid:
@@ -9,19 +9,22 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://live.staticflickr.com/65535/53562084349_de5986ceef_c.jpg
 categories:
 - 60 albums
 - music
 tags:
 - the pogues
 - rum sodomy and the lash
+date: 2024-03-05 00:00 +0000
 ---
 By 1985 my love for metal was well and truly over. Looking through the list of albums released in 1985 reveals a lot by bands I'd have jumped on a year or two earlier that are a complete mystery to me. It would seem that at the same time as metal leaving my life it was also the beginning of my transition from vinyl to CD. I think Kate Bush's The Hounds of Love was my first CD purchase, but hot on it's heels would have been The Pogues' _Rum, Sodomy, and The Lash_. So I'll bend my rules again and start allowing CDs into the series given how fully I embraced the format, despite never having actually loved it.
 
+{% ahfowimage "https://live.staticflickr.com/65535/53562084349_de5986ceef_c.jpg" "The Pogues - Rum, Sodomy, and The Lash" "https://www.flickr.com/photos/grange85/53562084349/in/datetaken/" %}
+
 So, _Rum, Sodomy, and The Lash_ - I've opted to give the title the commas I think it requries, unless _rum sodomy_ is a thing in which case I'll apologise - was The Pogues' second album and might just be their best. It was certainly the one that had me totally hooked, and hooked right from the very start of it to the very end of it - it is an utterly flawless album and so, probably, The Pogues best (although _If I Should Fall from Grace With God_ pushes it a close second.
 
-I saw the Pogues a lot between 1985 and 1991 and every gig was a treat, except maybe the last one in Finsbury Park that was a bit of a nightmare.
+I saw the Pogues a lot between 1985 and 1991 (see [my previous post](/swirling/2014/03/17/st-patricks-nights-1986-to-1988/))and every gig was a treat, except maybe the last one in Finsbury Park that was a bit of a nightmare.
 
 It's funny because the thing that made those Pogues gigs so memorable was the mosh and the cameraderie within the mosh... but The Pogues best album tracks are the gentle ones. So on this album it's _I'm a Man You Don't Meet Every Day_ (I think losing Cait's voice after this album was a loss to the band), _A Pair of Brown Eyes_ and their gorgeous cover of Ewan MacColl's _Dirty Old Town_.
 
