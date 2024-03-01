@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '1986 - Dr. Feelgood - Brilleaux'
+title: 1986 - Dr. Feelgood - Brilleaux
 sitemap: true
-series-title: 60 albums 
+series-title: 60 albums
 github-comments-issueid:
 author:
   display_name: Andy
@@ -17,6 +17,7 @@ tags:
 - dr. feelgood
 - brilleaux
 - lee brilleaux
+date: 2024-03-06 00:00 +0000
 ---
 My love for Dr. Feelgood ran from 1979, when a school pal encouraged me to listen to some Feelgood singles I'd picked up at a jumble sale, to _Classic_ in 1987 and I bought all their albums during that period, and all on vinyl despite having started my CD buying before that. Having said that I rarely listen to the albums from that period, tending instead to head to Wilko era Feelgoods.
 
@@ -34,4 +35,4 @@ Some idle thoughts:
 
  There's a great live video of the band in France in 1986 just to prove how effing great they were and how hypnotic Lee was.
 
- {% ahfowimage "Kw-77PRJs9c" "Dr Feelgood in France in 1986" %}
+ {% ahfowvideo "Kw-77PRJs9c" "Dr Feelgood in France in 1986" %}
