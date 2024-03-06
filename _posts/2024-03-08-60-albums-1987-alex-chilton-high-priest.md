@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '60 albums: 1987 - Alex Chilton - High Priest'
+title: '1987 - Alex Chilton - High Priest'
 sitemap: true
-series-title:
+series-title: 60 albums 
 github-comments-issueid:
 author:
   display_name: Andy
