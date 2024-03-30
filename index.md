@@ -6,10 +6,17 @@ layout: g85home
 ---
 <h3>Around here</h3>
 <ul>
-  <li><a href="living-by-the-water/">Living by the water</a></li>
   <li><a href="swirling/">Everything's Swirling</a></li>
   <li><a href="https://www.fullofwishes.co.uk">A Head Full of Wishes</a></li>
   <li><a class="h-card p-name" href="https://www.grange85.co.uk/">Andy Aldridge</a></li>
+  <li><a href="living-by-the-water/">Living by the water</a></li>
+</ul>
+
+<h3>Other people's blogs</h3>
+<ul>
+  <li><a href="https://www.moley75.co.uk/">Let's Fold Scarves</a> _film, books, music, etc._</li>
+  <li><a href="http://blissout.blogspot.com/">Blissblog</a> _music, mostly_</li>
+  <li><a href="https://unpopularuk.wordpress.com/">Unpopular</a> _books, music, etc._</li>
 </ul>
 
 <h3>Find me</h3>
