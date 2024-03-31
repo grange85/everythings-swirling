@@ -21,7 +21,8 @@ date: 2024-04-04 00:00 +0000
 ---
 [#LET5D0IT](https://bsky.app/profile/let5d0it.bsky.social)
 
-Silly Love Songs - Wings (1976)
+_Silly Love Songs - Wings (1976)_  
+I love some silly love songs, and Silly Love Songs in particular.
 
 {% ahfowvideo "ap87QgZKTNw" "Silly Love Songs - Wings (1976)" "https://live.staticflickr.com/65535/53620216151_ca7d28d668_c.jpg" %}
 

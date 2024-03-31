@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://img.youtube.com/vi/DkYuM_r8cKQ/maxres1.jpg
+image: https://img.youtube.com/vi/DFSFftDutXQ/maxres1.jpg
 categories:
 - LET5D0IT
 - music
@@ -21,4 +21,4 @@ date: 2024-04-05 00:00 +0000
 
 Tous les garçons et les filles - Françoise Hardy (1962)
 
-{% ahfowvideo "DkYuM_r8cKQ" "Tous les garçons et les filles - Françoise Hardy (1962)" %}
+{% ahfowvideo "DFSFftDutXQ" "Tous les garçons et les filles - Françoise Hardy (1962)" %}
