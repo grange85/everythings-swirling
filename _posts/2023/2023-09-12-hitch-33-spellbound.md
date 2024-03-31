@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Hitch #33: Spellbound'
-imgurl:
+title: 'Hitch #33 - Spellbound (1945)'
+imgurl: https://cdn.grange85.co.uk/swirling/hitchcock/hitchcock-spellbound.jpg
 author:
   display_name: Andy
   login: admin

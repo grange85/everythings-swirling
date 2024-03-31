@@ -14,7 +14,7 @@ date: '2019-05-25'
 categories:
  - film
 tags: []
- - --
+---
 <figure><img src="{{site.baseurl}}/images/matewan-1987-john-sayles.jpg" class="img-responsive" /><figcaption>Matewan (John Sayles, 1987)</figcaption></figure>
 
 I can't remember the last time that I saw Matewan but it could have been around the time that City of Hope got released over here - which was probably 1992. I also can't remember where I saw it - I was thinking it was in Edinburgh, perhaps at at John Sayles retrospective or part of the Film Festival (or both&hellip; or neither) but I can't find any evidence of that.

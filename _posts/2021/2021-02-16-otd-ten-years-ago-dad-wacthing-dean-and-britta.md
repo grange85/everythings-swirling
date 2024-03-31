@@ -14,7 +14,7 @@ date: '2021-02-16'
 categories:
  - music
 tags:
- - --
+---
 Ten years ago today I took my dad (well, he took me) to see Dean & Britta playing Galaxie 500 in Brighton:
 
 We turned up early and watched the soundcheck

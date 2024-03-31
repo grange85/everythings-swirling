@@ -15,7 +15,7 @@ categories:
  - hitchcock
  - film
 tags: []
- - --
+---
 <figure class="aligncenter"><img src="https://thejar.hitchcock.zone/files/gallery/org/7503.jpg" class="img-responsive" /><figcaption>Foreign Correspondent (1940)</figcaption></figure>
 In my head Foreign Correspondent is up there with those British films I love. And it has a lot of that British film signalling that is the reason it's like that in my head: 
 

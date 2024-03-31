@@ -15,7 +15,7 @@ categories:
  - hitchcock
  - film
 tags: []
- - --
+---
 <figure class="aligncenter"><img src="{{site.baseurl}}/images/hitch/jamaica-inn-publicity-photo.jpg" class="img-responsive" /><figcaption>Jamaica Inn (1939)</figcaption></figure>
 
 ### I was worried that Hitchcock's last early British film might see him going it out with a whimper

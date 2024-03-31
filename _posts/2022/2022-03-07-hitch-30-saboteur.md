@@ -14,7 +14,7 @@ date: '2022-03-07'
 categories:
  - hitchcock
 tags:
- - --
+---
 <figure><img src="{{site.baseurl}}/images/hitch/saboteur-1942-promo.jpg" class="img-responsive" /><figcaption>Saboteur (1942)</figcaption></figure>
 Oh lord, we have been so neglectful. We've now watched Saboteur twice, and I'm still only getting around to writing it up months after the second viewing.
 
