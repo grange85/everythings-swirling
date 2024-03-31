@@ -21,7 +21,12 @@ date: 2024-04-03 00:00 +0000
 ---
 [#LET5D0IT](https://bsky.app/profile/let5d0it.bsky.social)
 
-Remember You're a Womble - The Wombles (1974)
+_Remember You're a Womble - The Wombles (1974)_  
+Love this for the following reasons (among many)
+ - The fiddle
+ - Mike Batt
+ - We were [living in Wimbledon](https://maps.app.goo.gl/xJZFmYic6HTmdDLu5) when I was born
+ - [Football](https://cdn.grange85.co.uk/swirling/adam-and-haydon.jpg)
 
 {% ahfowvideo "VIxkqoNi8I4" "Remember You're a Womble - The Wombles (1974)" "https://live.staticflickr.com/65535/53620463269_afb086947f_c.jpg" %}
 

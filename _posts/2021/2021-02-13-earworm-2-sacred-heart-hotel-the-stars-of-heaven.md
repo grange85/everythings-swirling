@@ -17,7 +17,7 @@ categories:
 tags:
 ---
 
-<figure class="aligncenter"><img src="{{site.baseurl}}/images/earworm/the-stars-of-heaven.jpg" class="img-responsive" /><figcaption>The Stars of Heaven</figcaption></figure>
+<figure class="aligncenter"><img src="https://cdn.grange85.co.uk/swirling/earworm/the-stars-of-heaven.jpg" class="img-responsive" /><figcaption>The Stars of Heaven</figcaption></figure>
 
 This morning I awoke to find the lovely Sacred Heart Hotel washing around inside my head - it's been a while:
 

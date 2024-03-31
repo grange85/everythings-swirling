@@ -16,14 +16,14 @@ categories:
  - film
 tags:
 ---
-<figure><img src="{{site.baseurl}}/images/hitch/shadow-of-a-doubt-poster.jpg" class="img-responsive" /><figcaption>Shadow of a Doubt (1943)</figcaption></figure>
+<figure><img src="https://cdn.grange85.co.uk/swirling/hitch/shadow-of-a-doubt-poster.jpg" class="img-responsive" /><figcaption>Shadow of a Doubt (1943)</figcaption></figure>
 If anyone were to ask me what my favourite Hitchcock film was I’d probably pick randomly from The 39 Steps, Young and Innocent and The Lady Vanishes - [when I wrote of the last of these three]({{site.baseurl}}/swirling/2018/08/14/hitch-24-the-lady-vanishes-1938/) (back in 2018!!) I speculated that the only other film that might muscle its way into the list would be Shadow of a Doubt.
 
 We finally arrived there a few months back and while it’s certainly in with a shout I’m pretty sure that (apparently) Hitch’s favourite film is not mine - although there is so much to love about it…
 
 Weirdly, one of the things that has always stuck in my head since the very first time I watched Shadow of a Doubt is that you don’t start a cake by breaking an egg.
 
-<figure class="aligncenter"><img src="{{site.baseurl}}/images/hitch/shadow-of-a-doubt-cake.jpg" class="img-responsive" /><figcaption>Oh, but you don't start a cake by breaking an egg, you have to put the butter and sugar in first. Survey or no survey, I'm not going to start by breaking an egg.</figcaption></figure>
+<figure class="aligncenter"><img src="https://cdn.grange85.co.uk/swirling/hitch/shadow-of-a-doubt-cake.jpg" class="img-responsive" /><figcaption>Oh, but you don't start a cake by breaking an egg, you have to put the butter and sugar in first. Survey or no survey, I'm not going to start by breaking an egg.</figcaption></figure>
 So ...
 
 * not my favourite Hitch film

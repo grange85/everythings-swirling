@@ -27,7 +27,7 @@ So... at, I'd guess about 22:30 on 27th June 1990 this happened which pretty muc
 
 1999: I'd managed to get a job working on a European digitisation project, I shared an office with BBC I&A's first _media mmanagers_ who were asked to help work on developing an intranet site - Research Central - I found myself roped in as the only person who had any experience developing for the web (_becuase of Galaxie 500_). I ended up doing quite a lot of the work on it.
 
-<figure><img src="{{site.baseurl}}/images/research-gateway.jpg" class="img-responsive" /><figcaption>Research Gateway in 2005</figcaption></figure>
+<figure><img src="https://cdn.grange85.co.uk/swirling/research-gateway.jpg" class="img-responsive" /><figcaption>Research Gateway in 2005</figcaption></figure>
 Research Central changed over the years, it became research.gateway, and then Research Gateway - the job changed, the site changed - as people learned the web they needed less help and more tools - we gave them that.
 
 200?: Actually I'm not sure of when they decided that my skills (_because of Galaxie 500_) would be put to better use not as part of the archives but as part of the wider BBC intranet. Unfortunately over the following few years a variety of managers came and went and none of them had a clue what to do with us

@@ -16,7 +16,7 @@ categories:
  - film
 tags: []
 ---
-<figure class="aligncenter"><img src="{{site.baseurl}}/images/hitch/jamaica-inn-publicity-photo.jpg" class="img-responsive" /><figcaption>Jamaica Inn (1939)</figcaption></figure>
+<figure class="aligncenter"><img src="https://cdn.grange85.co.uk/swirling/hitch/jamaica-inn-publicity-photo.jpg" class="img-responsive" /><figcaption>Jamaica Inn (1939)</figcaption></figure>
 
 ### I was worried that Hitchcock's last early British film might see him going it out with a whimper
 
@@ -30,7 +30,7 @@ It has a fabulous cast:
  - and even Robert Newton has some charm although he's no Donat or [Redgrave]({{site.baseurl}}
 {% post_url 2017/2017-08-05-hitch-20-the-39-steps %}) (and to be fair the role isn't written with the charm of a Richard Hannay or Gilbert).
 
-<figure class="aligncenter"><img src="{{site.baseurl}}/images/hitch/jamaica-inn-charles-laughton.jpg" class="img-responsive" /><figcaption>Jamaica Inn (1939)</figcaption></figure>
+<figure class="aligncenter"><img src="https://cdn.grange85.co.uk/swirling/hitch/jamaica-inn-charles-laughton.jpg" class="img-responsive" /><figcaption>Jamaica Inn (1939)</figcaption></figure>
 
 The story is a great one, although it feels a bit rushed in places that makes some of the character's actions seem a bit odd, and the sets and models are nicely convincing - the wreck model sequences are tense and exciting and the murderous wreckers are brilliantly evil.
 

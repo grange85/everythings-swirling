@@ -15,7 +15,7 @@ categories:
  - hitchcock
 tags:
 ---
-<figure><img src="{{site.baseurl}}/images/hitch/saboteur-1942-promo.jpg" class="img-responsive" /><figcaption>Saboteur (1942)</figcaption></figure>
+<figure><img src="https://cdn.grange85.co.uk/swirling/hitch/saboteur-1942-promo.jpg" class="img-responsive" /><figcaption>Saboteur (1942)</figcaption></figure>
 Oh lord, we have been so neglectful. We've now watched Saboteur twice, and I'm still only getting around to writing it up months after the second viewing.
 
 However, watching it twice was no great hardship since it is a cracking watch. Another of Hitch's _wrong man_ films - which seem to always push my buttons. And then throw in the lovely Priscilla Lane being sassy and resourceful and charming, and Otto Kruger being creepy and sinister and smarmy, Robert Cummings just _being_ the part, and Norman Lloyd ... falling.

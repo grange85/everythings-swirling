@@ -22,6 +22,7 @@ date: 2024-04-02 00:00 +0000
 ---
 [#LET5D0IT](https://bsky.app/profile/let5d0it.bsky.social)
 
-We Have All The Time in The World - Louis Armstrong (1969)
+_We Have All The Time in The World - Louis Armstrong (1969)_  
+Love this because of the saddest Bond film, and John Barry... and Louis, obv.
 
 {% ahfowvideo "SgVWFdDnSXQ" "We Have All The Time in The World - Louis Armstrong (1969)" %}

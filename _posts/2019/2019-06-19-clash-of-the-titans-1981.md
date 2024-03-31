@@ -15,7 +15,7 @@ categories:
  - film
 tags: []
 ---
-<figure><img src="{{site.baseurl}}/images/harryhausen-medusa.jpg" class="img-responsive" /><figcaption>Ray Harryhausen working with Medusa</figcaption></figure>
+<figure><img src="https://cdn.grange85.co.uk/swirling/harryhausen-medusa.jpg" class="img-responsive" /><figcaption>Ray Harryhausen working with Medusa</figcaption></figure>
 I love Ray Harryhausen and his work but I understand why Clash of the Titans was when he decided to hang up his puppets. In the wake of Star Wars things changed and while a lot of the effects in this film are brilliant their integration into the film seems clumsy by more modern methods - it was time to let the new guys take his work and run with it. 
 
 I'll say however that the fight with Medusa is still better than any CGI we've seen so far!
