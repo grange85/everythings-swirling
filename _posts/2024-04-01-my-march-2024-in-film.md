@@ -48,7 +48,7 @@ date: 2024-04-01 18:50 +0100
 | 2020s | 2 | 7.00 |
 
 Top rated films
- - Notroious (1946) _9_
+ - Notorious (1946) _9_
  - The Third Man (1949) _9_
  - Sunset Boulevard (1950) _9_
 
