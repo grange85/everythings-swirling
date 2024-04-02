@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 8: Gonna Make You a Star - David Essex'
+title: 'Day 8: Gonna Make You a Star - David Essex (1974)'
 sitemap: true
 series-title: "#LET5D0IT - Top 50 singles from 1954 to 1976"
 github-comments-issueid:

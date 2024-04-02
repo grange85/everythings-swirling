@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 7: Close to You - The Carpenters'
+title: 'Day 7: Close to You - The Carpenters (1970)'
 sitemap: true
 series-title: "#LET5D0IT - Top 50 singles from 1954 to 1976"
 github-comments-issueid:

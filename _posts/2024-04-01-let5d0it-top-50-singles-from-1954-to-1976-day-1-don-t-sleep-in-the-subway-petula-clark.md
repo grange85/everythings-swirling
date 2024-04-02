@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 1: Don''t Sleep in The Subway - Petula Clark'
+title: 'Day 1: Don''t Sleep in The Subway - Petula Clark (1967)'
 sitemap: true
 series-title: "#LET5D0IT - 50 singles from 1954 to 1976"
 github-comments-issueid:

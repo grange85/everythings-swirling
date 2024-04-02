@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 2: We Have All The Time in The World - Louis Armstrong'
+title: 'Day 2: We Have All The Time in The World - Louis Armstrong (1969)'
 sitemap: true
 series-title: "#LET5D0IT - Top 50 singles from 1954 to 1976"
 github-comments-issueid:

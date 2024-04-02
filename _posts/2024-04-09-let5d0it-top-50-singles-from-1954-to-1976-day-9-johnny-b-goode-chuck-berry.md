@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 9: Johnny B. Goode - Chuck Berry'
+title: 'Day 9: Johnny B. Goode - Chuck Berry (1958)'
 sitemap: true
 series-title: "#LET5D0IT - 50 singles from 1954 to 1976"
 github-comments-issueid:

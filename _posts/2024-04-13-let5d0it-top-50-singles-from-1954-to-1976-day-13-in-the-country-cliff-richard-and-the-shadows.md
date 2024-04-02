@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 13: In The Country - Cliff Richard and The Shadows'
+title: 'Day 13: In The Country - Cliff Richard and The Shadows (1966)'
 sitemap: true
 series-title: "#LET5D0IT - Top 50 singles from 1954 to 1976"
 github-comments-issueid:

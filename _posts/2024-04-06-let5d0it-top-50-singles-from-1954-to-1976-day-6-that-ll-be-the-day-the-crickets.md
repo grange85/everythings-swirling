@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 6: That''ll Be The Day - The Crickets'
+title: 'Day 6: That''ll Be The Day - The Crickets (1957)'
 sitemap: true
 series-title: "#LET5D0IT - Top 50 singles from 1954 to 1976"
 github-comments-issueid:

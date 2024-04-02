@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 14: Ode to Billy Joe - Bobbie Gentry'
+title: 'Day 14: Ode to Billy Joe - Bobbie Gentry (1967)'
 sitemap: true
 series-title: "#LET5D0IT - Top 50 singles from 1954 to 1976"
 github-comments-issueid:

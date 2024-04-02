@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 11: Shake, Rattle and Roll - Joe Turner and his Blues Kings'
+title: 'Day 11: Shake, Rattle and Roll - Joe Turner and his Blues Kings (1954)'
 sitemap: true
 series-title: "#LET5D0IT - Top 50 singles from 1954 to 1976"
 github-comments-issueid:
