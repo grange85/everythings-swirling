@@ -17,7 +17,6 @@ theme_config:
   show_description: true
   post_navigation: true
 
-plausible_domain: "grange85.co.uk"
 goat_counter: grange85
 permalink: /swirling/:year/:month/:day/:title/
 
