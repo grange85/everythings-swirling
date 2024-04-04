@@ -22,6 +22,6 @@ date: 2024-04-17 00:00 +0000
 [#LET5D0IT](https://bsky.app/profile/let5d0it.bsky.social)
 
 _Soulful Dress - Sugar Pie Desanto (1964)_  
-Back in 1984 I bought "Chess Masters - Sampler" a 14 track LP and every track on it could have found a place in this series. Some I already knew, the famous ones, Bo Diddley, Muddy Waters, Chuck Berry etc. - but I'd never heard (or heard of) Sugar Pie Desanto, and yet Soulful Dress stood head and shoulders above everything else on that fantastic album!
+Back in 1984 I bought [Chess Masters - Sampler](https://www.discogs.com/release/1552796-Various-Chess-Masters-Sampler) a 14 track LP, and every track on it could have found a place in this series. Some I already knew, the famous ones, Bo Diddley, Muddy Waters, Chuck Berry etc. - but I'd never heard (or heard of) Sugar Pie Desanto, and yet Soulful Dress shone brighter than everything else on that fantastic album!
 
 {% ahfowvideo "TVap-SkdMMs" "Soulful Dress - Sugar Pie Desanto (1964)" %}
