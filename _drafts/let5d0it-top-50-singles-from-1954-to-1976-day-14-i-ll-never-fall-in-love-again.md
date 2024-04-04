@@ -16,7 +16,6 @@ categories:
 tags:
 - bobbie gentry
 - ode to billy joe
-date: 2024-04-04 15:20 +0100
 ---
 [#LET5D0IT](https://bsky.app/profile/let5d0it.bsky.social)
 
