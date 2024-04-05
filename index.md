@@ -8,8 +8,6 @@ layout: g85home
 <ul>
   <li><a href="swirling/">Everything's Swirling</a></li>
   <li><a href="https://www.fullofwishes.co.uk">A Head Full of Wishes</a></li>
-  <li><a class="h-card p-name" href="https://www.grange85.co.uk/">Andy Aldridge</a></li>
-  <li><a href="living-by-the-water/">Living by the water</a></li>
 </ul>
 
 <h3>Other people's blogs</h3>
@@ -26,6 +24,7 @@ layout: g85home
   <li><a href="mailto:andy@grange85.co.uk" rel="me">andy@grange85.co.uk</a></li>
   <li><a href="https://bandcamp.com/grange85" rel="me">@grange85 on Bandcamp</a></li>
   <li><a rel="me" href="https://mas.to/@grange85">@grange85 on Mastodon</a></li>
+  <li><a class="h-card p-name" href="https://www.grange85.co.uk/">Andy Aldridge</a></li>
 </ul>
 
 
