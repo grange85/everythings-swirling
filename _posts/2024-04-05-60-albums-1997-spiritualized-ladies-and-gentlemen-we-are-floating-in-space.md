@@ -21,11 +21,11 @@ tags:
 - brentford
 date: 2024-04-05 00:00 +0000
 ---
-While I was aware of Spacemen 3 I wasn't, at the time, a fan. Their live album [Dreamweapon: An Evening of Contemporary Sitar Music](https://en.wikipedia.org/wiki/Dreamweapon:_An_Evening_of_Contemporary_Sitar_Music) was recorded at The Watermans Arts Centre in Brentford, just around the corner from where I worked. I visited often, mostly to see films, but occasionally music (I saw Elvis Costello there a couple of times). During the recording of Dreamweapon you can hear a venue announcement telling folk that the doors were open for the evening's screening of Wings of Desire - I saw Wings of Desire at The Watremans, and have long worried that I blithely strolled past The Spacemen 3 doing their thing on the way to the cinema. I hope not.
+While I was aware of Spacemen 3 I wasn't, at the time, a fan. Their live album [Dreamweapon: An Evening of Contemporary Sitar Music](https://en.wikipedia.org/wiki/Dreamweapon:_An_Evening_of_Contemporary_Sitar_Music) was recorded at The Watermans Arts Centre in Brentford, just around the corner from where I worked. I visited often, mostly to see films, but occasionally music (I saw Elvis Costello there a couple of times). During the recording of Dreamweapon you can hear a venue announcement telling folk that the doors were open for the evening's screening of Wings of Desire - I saw Wings of Desire at The Watermans, and have long worried that I blithely strolled past The Spacemen 3 doing their thing on the way to the cinema. I hope not.
 
 {% ahfowimage "https://live.staticflickr.com/65535/53631349177_ee927032d6_c.jpg" "Spiritualized - Ladies and gentlemen we are floating in space" "https://www.flickr.com/photos/grange85/53631349177/in/dateposted/" %}
 
-But, that's how unaware of Spacemen 3 I was. I was also unaware of their split and the formation of Spiriualized until a work colleague lent me a CD of Lazer Guided Melodies, the copy with four long tracks, and everything changed. By the time Ladies and Gentlemen... was released I was a fan (and had filled out the gaps in my Spacemen 3 knowledge/collection).
+But, that's how unaware of Spacemen 3 I was. I was also unaware of their split and the formation of Spiritualized until a work colleague lent me a CD of Lazer Guided Melodies, the copy with four long tracks, and everything changed. By the time Ladies and Gentlemen... was released I was a fan (and had filled out the gaps in my Spacemen 3 knowledge/collection).
 
 My copy is a CD in the medicine box package and because of that:
  - the packaging _had_ to be broken to get to the CD
