@@ -9,7 +9,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image: https://img.youtube.com/vi/cJZ_ViDADOE/maxres1.jpg
+image: https://img.youtube.com/vi/jHgvvTfiZEw/maxres1.jpg
 categories:
 - LET5D0IT
 - music
