@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: "Day 21: Teenage Rampage - The Sweet (1974)"
 date: 2024-04-21 00:00 +0000
 sitemap: true
