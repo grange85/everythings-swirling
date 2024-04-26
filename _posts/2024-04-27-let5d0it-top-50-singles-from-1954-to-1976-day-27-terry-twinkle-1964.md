@@ -22,7 +22,6 @@ tags:
 [#LET5D0IT](https://bsky.app/profile/let5d0it.bsky.social)
 
 _Terry - Twinkle (1964)_  
-Love this because of the saddest Bond film, and John Barry... and Louis, obv.
 
 {% ahfowvideo "cVuho5gJy_8" "Terry - Twinkle (1964)" "https://cdn.grange85.co.uk/images/terry-twinkle.jpg" %}
 
