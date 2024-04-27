@@ -20,7 +20,7 @@ tags:
 ---
 [#LET5D0IT](https://bsky.app/profile/let5d0it.bsky.social)
 
-_Georgy Girl - The Seekers (1966)_  
+_Day 30: Georgy Girl - The Seekers (1966)_  
 
 {% ahfowvideo "cuKq_M8LhaE" "Georgy Girl - The Seekers (1966)" "https://cdn.grange85.co.uk/images/the-seekers-georgy-girl.jpg" %}
 The opening of the film Georgy Girl is adorable, Lynn looking lovely (no dowdy feathers as far as I can see), walking and running around Swinging London with The Seekers for company.
