@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 33: Be My Baby - The Ronettes (1963)"
+title: "Day 34: Be My Baby - The Ronettes (1963)"
 date: 2024-05-04 00:00 +0000
 sitemap: true
 series-title: '#LET5D0IT - Top 50 singles from 1954 to 1976'
