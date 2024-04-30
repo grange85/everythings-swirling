@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 34: Wichita Lineman - Glen Campbell (1968)"
+title: "Day 35: Wichita Lineman - Glen Campbell (1968)"
 date: 2024-05-05 00:00 +0000
 sitemap: true
 series-title: '#LET5D0IT - Top 50 singles from 1954 to 1976'
