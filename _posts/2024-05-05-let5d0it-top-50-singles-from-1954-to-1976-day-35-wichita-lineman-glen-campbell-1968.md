@@ -20,7 +20,7 @@ tags:
 ---
 [#LET5D0IT](https://bsky.app/profile/let5d0it.bsky.social)
 
-_ Wichita Lineman - Glen Campbell (1968)_  
+_Wichita Lineman - Glen Campbell (1968)_  
 "... and I need you more than want you, and I want you for all time"
 
 {% ahfowvideo "Q8P_xTBpAcY" " Wichita Lineman - Glen Campbell (1968)" %}
