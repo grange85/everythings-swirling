@@ -23,5 +23,5 @@ tags:
 _Paranoid - Black Sabbath (1970)_  
 Finding this single second-hand at a jumble sale in the late 70s was one of the key moments in my musical life. Over the next three or four years I developed from a listener to something considerably more obsessed.
 
-{% ahfowvideo "0qanF-91aJo" "We Have All The Time in The World - Louis Armstrong (1969)" "https://live.staticflickr.com/65535/53711517040_f2b7ce6097_c.jpg" %}
+{% ahfowvideo "0qanF-91aJo" "Paranoid - Black Sabbath (1970)" "https://live.staticflickr.com/65535/53711517040_f2b7ce6097_c.jpg" %}
 
