@@ -25,7 +25,7 @@ The last of my _teenage tragedy songs_ but not my last Meek production.
 
 {% ahfowvideo "7e4JXwd7XMo" "Johnny Remember Me - John Leyton (1961)" "https://cdn.grange85.co.uk/images/john-leyton-johnny-remember-me.jpg" %}
 
-The Wikipedia page for [Teenage tragedy songs](https://en.wikipedia.org/wiki/Teenage_tragedy_song) has little song plot summaries for each of the songs in their list. The one for Johnny Remember Me rather kills the spookiness of it!
+The Wikipedia page for [Teenage tragedy songs](https://en.wikipedia.org/wiki/Teenage_tragedy_song) has little song plot summaries for each of the songs in their list. The one for Johnny Remember Me rather kills the brilliant spookiness of it!
 
 <blockquote>
 Protagonist's girlfriend died a year ago, cause unspecified, he still misses her.
