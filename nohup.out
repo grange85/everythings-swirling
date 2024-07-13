@@ -1,6 +1,0 @@
-xdg-settings: invalid application name
-Try 'xdg-settings --help' for more information.
-Sentry: Initialized with autoUploadCrashDumps: false
-[4344:0713/111602.435460:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
-[4344:0713/111627.465294:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.portal.Settings.Read: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
-FATAL ERROR: Error::ThrowAsJavaScriptException napi_throw
