@@ -29,7 +29,7 @@ There are a couple of nice shots too - most notably when Andre enters the courtr
 
 {% ahfowimage "https://cdn.grange85.co.uk/swirling/hitch/paradine-case-valli.jpg" "Maddelena (Valli) doesn't watch as Andre enters the courtroom" %}
 
-Source: DVD
-Rating: 3/10
-Hitchcock Zone: [The Paradine Case (1947)](https://the.hitchcock.zone/wiki/The_Paradine_Case_(1947))
-TIL: it's pronounced ParaDEEN not ParaDINE
+ - Source: DVD
+ - Rating: 3/10
+ - Hitchcock Zone: [The Paradine Case (1947)](https://the.hitchcock.zone/wiki/The_Paradine_Case_(1947))
+ - TIL: It's pronounced ParaDEEN not ParaDINE
