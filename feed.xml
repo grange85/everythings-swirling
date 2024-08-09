@@ -20,9 +20,9 @@ permalink: /swirling/feed.xml
         <description>{{ post.content | replace: '"/swirling', '"https://www.grange85.co.uk/swirling' | xml_escape }}
 
         {% unless post.content contains "<img" %}
-			{% if post.imgurl contains ".jpg"  %}
+			{% if post.image contains ".jpg"  %}
 				{% capture imagetag %}
-					<img src="{{ post.imgurl }}">
+					<img src="{{ post.image }}">
 				{% endcapture %}
 				{{ imagetag | xml_escape }}
 			{% endif %}
@@ -34,10 +34,10 @@ permalink: /swirling/feed.xml
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
 		{% if post.enclosure.url contains ".mp3" %}
 			<enclosure url="{{post.enclosure.url}}" length="{{post.enclosure.length}}" type="audio/mpeg" />
-		{% elsif post.imgurl contains ".jpg" or post.imgurl contains "googleusercontent" %}
-			<media:content url="{{post.imgurl}}" type="image/jpg" medium="image" />
-		{% elsif post.imgurl contains ".png" %}
-			<media:content url="{{post.imgurl}}" type="image/png" medium="image" />
+		{% elsif post.image contains ".jpg" or post.image contains "googleusercontent" %}
+			<media:content url="{{post.image}}" type="image/jpg" medium="image" />
+		{% elsif post.image contains ".png" %}
+			<media:content url="{{post.image}}" type="image/png" medium="image" />
 		{% endif %}
 		<guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
       </item>
