@@ -20,6 +20,5 @@ tags:
 ---
 {% ahfowimage "https://live.staticflickr.com/65535/53168320329_32f5f658dc_b.jpg" "Selfie with Naomi (because Hazel asked for one)" "https://www.flickr.com/photos/grange85/53168320329/" %}
 
-- Samsung Galaxy S10
-- 3rd September 2023
+- 3rd September 2023 / Samsung Galaxy S10
 - #naomiyang #damonandnaomi #onthisday #selfie #ahfow

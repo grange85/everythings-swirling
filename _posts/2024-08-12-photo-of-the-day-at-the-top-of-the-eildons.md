@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://live.staticflickr.com/1173/1152887979_e5348a14d3_b.jpg
 categories:
 - photography
 tags:
@@ -19,6 +19,5 @@ tags:
 ---
 {% ahfowimage "https://live.staticflickr.com/1173/1152887979_e5348a14d3_b.jpg" "Made it" "https://www.flickr.com/photos/grange85/1152887979/" %}
 
-- Nikon D40
-- 12th August 2007
-- #melrose #eildons #trimontium #eildonhill
+- 12th August 2007 / Nikon D40
+- #melrose #eildons #trimontium #eildonhill #onthisday

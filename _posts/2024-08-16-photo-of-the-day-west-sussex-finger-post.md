@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://live.staticflickr.com/169/410609718_674cc57b49_b.jpg
 categories:
 - photography
 tags:
@@ -19,6 +19,5 @@ tags:
 ---
 {% ahfowimage "https://live.staticflickr.com/169/410609718_674cc57b49_b.jpg" "West Sussex fingerpost" "https://www.flickr.com/photos/grange85/410609718/in/album-72157594301043718/" %}
 
-- Holga / Ilford HP5+
-- March 2004
+- March 2004 / Holga / Ilford HP5+ 
 - #fingerpostfriday #westsussex #holga
