@@ -26,7 +26,7 @@ I owned all the albums on CD, because... it was what I was buying back then - bu
 
 Some of **The Sand and The Stars** was recorded on a beach in Cornwall and the outdoor ambience is probably enough to make it my favourite of theirs (although like all my favourite bands the album I like best is generally the last one I listened to).
 
-{% ahfowimage "https://live.staticflickr.com/65535/53751372893_f338e191b1_c.jpg" "Movietone on thee beach (from the LP insert)" "https://www.flickr.com/photos/grange85/53751372893/in/photostream/" %}
+{% ahfowimage "https://live.staticflickr.com/65535/53919996927_160c820406_b.jpg" "Movietone on thee beach (from the LP insert)" "https://www.flickr.com/photos/grange85/53919996927/in/dateposted/" %}
 
 The [sleeve is from a pianola roll](https://www.instagram.com/p/CiGExTLIaM_/?img_index=1). My mum and dad had a player piano, and tons of piano rolls, the bellows was torn so it took a lot of effort to get it to play, but it did. I guess it was _moved on_ when my dad moved on... I do miss it though.
 
