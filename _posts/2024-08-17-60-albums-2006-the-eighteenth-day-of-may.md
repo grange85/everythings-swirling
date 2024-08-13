@@ -17,7 +17,7 @@ tags:
 - the eighteenth day of may
 date: 2024-08-17 00:00 +0000
 ---
-The Eighteenth Day of May scratch all my English folk itches so it's not a surprise that I own and love this album... twice. I bought it on release on CD in 2006, and bought the lovely double LP in 2020.
+The Eighteenth Day of May scratch all my classic folk-rock itches so it's not a surprise that I own and love this album... twice. I bought it on release on CD in 2006, and bought the lovely double LP in 2020.
 
 {% ahfowimage "https://cdn.grange85.co.uk/swirling/eighteenth-day-of-may-lp.jpg" "The Eighteenth Day of May" %}
 
