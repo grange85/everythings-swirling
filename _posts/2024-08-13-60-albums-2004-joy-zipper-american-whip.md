@@ -29,3 +29,7 @@ It was a good show, although, it was 20 years ago now so I can't really remember
 They seemed to come to an end around then, although I just noticed that they did some _lockdown stuff_ in 2020 - here they are doing Out of The Sun from American Whip.
 
 {% ahfowvideo "ooV0fxHSU7g" "Joy Zipper - Out of The Sun (lockdown)" %}
+
+I'm guessing the idyllic surroundings, the dog, and the small child contributed to their hiatus?
+
+_Finally trying to get this series to an end, it fell by the wayside during [#LET5D0IT](/swirling/category/let5d0it/) and never recovered... until now_
