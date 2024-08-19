@@ -13,6 +13,7 @@ author:
 image: https://cdn.grange85.co.uk/swirling/60-albums-joy-zipper-american-whip.jpg
 categories:
 - 60 albums
+- music
 tags:
 - joy zipper
 - american whip
