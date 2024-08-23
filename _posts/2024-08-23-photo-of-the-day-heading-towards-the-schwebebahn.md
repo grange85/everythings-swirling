@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Photo of the day: Heading towards the Schwebebahn'
-date: 2024-08-24 00:00 +0000
 sitemap: true
 series-title:
 github-comments-issueid:
@@ -18,6 +17,7 @@ tags:
 - schwebebahn
 - fingerpost
 - fingerpost friday
+date: 2024-08-23 15:20 +0100
 ---
 {% ahfowimage "https://live.staticflickr.com/950/26821548557_297f687b69_b.jpg" "Wuppertal fingerpost" "https://www.flickr.com/photos/grange85/26821548557/" %}
 
