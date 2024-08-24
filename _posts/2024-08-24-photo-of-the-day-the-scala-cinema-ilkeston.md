@@ -21,4 +21,4 @@ tags:
 {% ahfowimage "https://live.staticflickr.com/65535/53943935496_f1bda5ec00_b.jpg" "Scala, Ilkeston (1913)" "https://www.flickr.com/photos/grange85/53943935496/in/dateposted/" %}
 
 - 28th July 2015 / Canon Powershot SX240
-- #cinema #cinemaarchitectre #ilkeston #photooftheday #scala
+- #cinema #cinemaarchitectre #ilkeston #photooftheday #scala #oldcinema
