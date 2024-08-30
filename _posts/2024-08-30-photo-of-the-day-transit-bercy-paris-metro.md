@@ -22,4 +22,4 @@ tags:
 {% ahfowimage "https://live.staticflickr.com/65535/30072870400_b519e4c504_b.jpg" "Bercy" "https://www.flickr.com/photos/grange85/30072870400/" %}
 
  - 12th October 2016 / SONY DSC-HX60
- - #metro #parismetro #transit #publictransport #station #brecy #netrostation
+ - #metro #parismetro #transit #publictransport #station #bercy #netrostation
