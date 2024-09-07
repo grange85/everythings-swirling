@@ -23,5 +23,5 @@ tags:
 - 7th September 2024 / Google Pixel 7
 - #cinema #stollpicturetheatre #tynetheatre #tynetheatreandoperahouse #newcastle
 
-For a third of its life the Tyne Theatre and Opera House was neither a theatre or an opera house but a cinema this is the stained glass on the front of the building snapped from the inside.
+For a third of its life the Tyne Theatre and Opera House was neither a theatre or an opera house but a cinema ~ this is the stained glass on the front of the building snapped from the inside.
 
