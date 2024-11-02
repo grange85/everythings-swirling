@@ -10,8 +10,8 @@ permalink: /swirling/feed-excerpts.xml
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed-excerpts.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+	<link>{{ site.url }}{{ site.baseurl }}/swirling/</link>
+	<atom:link href="{{ "/swirling/feed-excerpts.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     {% for post in site.posts limit:10 -%}
       <item>
         <title>{{ post.title | xml_escape }}</title>
