@@ -36,7 +36,7 @@ Here's my Deanna Durbin autograph... I like to pretend that my friends call me '
 
 ### Day 1 / Song #2 <br/> Allan Jones - Donkey Serenade (1937)
 
-Allan was on my radar because of his appearances with The Marx Brothers, but _The Donkey Serenade_ was from _The Firefly_ were he starred opposite Jeanette MacDonald (who is in my #LetsDoIt25 long list but might not make the cut). This song became Allan Jones's signature song.
+Allan was on my radar because of his appearances with The Marx Brothers, but _The Donkey Serenade_ was from _The Firefly_ where he starred opposite Jeanette MacDonald (who is in my #LetsDoIt25 long list but might not make the cut). This song became Allan Jones's signature song.
 
 {% ahfowvideo "GRdrKJ_pZZU" "Allan Jones - The Donkey Serenade" "https://cdn.grange85.co.uk/swirling/letsdoit25/allan-jones-donkey-serenade.jpg" %}
 
