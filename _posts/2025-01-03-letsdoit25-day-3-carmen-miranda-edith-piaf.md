@@ -17,9 +17,6 @@ tags:
 - carmen miranda
 - edith piaf
 ---
-1. Carmen Miranda - South American Way (from the 1940 film [Down Argentine Way](https://en.wikipedia.org/wiki/Down_Argentine_Way))
-2. Edith Piaf - Jezebel (1951)
-
 Inevitably my list is turning out, because of its cinema bias, very US-heavy - here are a couple of rarities that buck that trend.
 
 ### Day 3 / Song #1 <br/> Carmen Miranda - South American Way (1939/40)

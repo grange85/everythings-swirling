@@ -21,9 +21,6 @@ tags:
 - clambake seven
 - edyth wright
 ---
-1. Gene Krupa and his Orchestra (vocal chorus by Anita O'Day) - Watch The Birdie (1941)
-2. Tommy Dorsey and his Clambake Seven (vocal refrain by Edythe Wright) - The Music Goes 'Round and Around (1936) (BONUS 11pt)
-
 Two that aren't really _from_ films, but both are here _because of films_!
 
 ### Day 2 / Song #1 - Gene Krupa and his Orchestra (vocal chorus by Anita O'Day) - Watch The Birdie (1941)

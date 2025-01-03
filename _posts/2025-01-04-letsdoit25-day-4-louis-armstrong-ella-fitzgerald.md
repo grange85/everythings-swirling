@@ -19,15 +19,12 @@ tags:
 - ella fitzgerald
 - louis armstrong
 ---
-1. Louis Armstrong and his Orchestra - La vie en rose (1950)
-2. Ella Fitgerald with The Delta Rhythm Boys - It's Only a Paper Moon (1945)
-
 A couple of songs without any cinema connection, so I probably don't have too much to say - but... it's Louis and Ella so nothing really needs to be said I guess - either may yet make another appearance! 
 
-### Day 4 / Song #1
+### Day 4 / Song #1<br/>Louis Armstrong - La vie en rose (1950)
 {% ahfowvideo "k0DugDOeVGc" "Louis Armstrong - La vie en rose (1950)" "https://cdn.grange85.co.uk/swirling/letsdoit25/louis-armstrong.jpg"  %}
 
-### Day 4 / Song #2
+### Day 4 / Song #2<br/>Ella Fitzgerald - It's Only a Paper Moon (1945)
 {% ahfowvideo "B-rppG1JIzE" "Ella Fitzgerald - It's Only a Paper Moon (1945)" "https://cdn.grange85.co.uk/swirling/letsdoit25/ella-fitzgerald-1945.jpg" %}
 
 Of course, there is a cinema connection for Paper Moon, but I didn't pick the [Paul Whiteman/Peggy Healy version](https://www.youtube.com/watch?v=rbB4Qgw6jZw) used in the [1973 film](https://en.wikipedia.org/wiki/Paper_Moon_(film))... although I could have done quite easily!

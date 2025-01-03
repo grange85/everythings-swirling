@@ -18,9 +18,6 @@ tags:
 - deanna durbin
 - alan jones
 ---
- 1. Deanna Durbin - It's Raining Sunbeams (from the 1937 film [One Hundred Men and a Girl](https://en.wikipedia.org/wiki/One_Hundred_Men_and_a_Girl))
- 2. Allan Jones - The Donkey Serenade (from the 1937 film [The Firefly](https://en.wikipedia.org/wiki/The_Firefly_(1937_film)))
-
 Over the next 25 days I'll be picking my 50 favourite songs from before 1954 which inevitably for me will be quite US cinema heavy! This is all for "a music challenge in which players select their Top 25 to 50 singles/songs/recordings from the ‘Birth of Pop’ in the late 19th century to 31 December 1953" that's being [run online](https://bsky.app/profile/letsdoit25.bsky.social).
 
 ### Day 1 / Song #1 <br/>  Deanna Durbin - It's Raining Sunbeams (1937)
