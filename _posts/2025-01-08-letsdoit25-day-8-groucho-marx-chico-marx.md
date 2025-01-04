@@ -18,7 +18,7 @@ tags:
 - the marx brothers
 date: 2025-01-08 00:00 +0000
 ---
-### Day 8 / Song #1 <br/> Groucho Marx - Lydia The Tattooed Lady (1939) (from the film [At The Circus](https://en.wikipedia.org/wiki/At_the_Circus))
+### Day 8 / Song #1 <br/> Groucho Marx - Lydia The Tattooed Lady (1939) (from the film [At The Circus](https://en.wikipedia.org/wiki/At_the_Circus)) **BONUS 11pts**
 This is perfect Groucho and since it's Groucho it works almost as well without the moving pictures as it does with them. 
 {% ahfowvideo "QUEBwMYCkes" "Groucho Marx - Lydia The Tattooed Lady" "https://cdn.grange85.co.uk/swirling/letsdoit25/lydia-the-tattooed-lady.jpg" %}
 
