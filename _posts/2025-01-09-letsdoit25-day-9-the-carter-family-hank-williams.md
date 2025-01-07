@@ -19,7 +19,7 @@ tags:
 - hank williams
 ---
 
-### Day 9 / Song #1<br/>The Carter Family - Wildwood Flower (1928) **BONUS 11 points**
+### Day 9 / Song #1<br/>The Carter Family - Wildwood Flower (1928) 
 I'm not sure when I first heard Wildwood Flower, or who was singing it, but I know that when it turned up on the 10,000 Maniacs _Eat For Two_ single in 1989 I was already familar with it. There was a lot of country music in the house when I was growing up so I guess it seeped in then. But this 1928 Carter Family recording is so perfect I'm not sure I'd want to listen to any other version now.
 {% ahfowvideo "NHXtp3VxgAY" "The Carter Family - Wildwood Flower (1928)" "https://cdn.grange85.co.uk/swirling/letsdoit25/the-carter-family.jpg"  %}
 
