@@ -25,6 +25,6 @@ This is perfect Groucho and since it's Groucho it works almost as well without t
 At The Circus may not be the Marx Brothers finest but it not only has this, Chico doing [Beer Barrel Polka](https://www.youtube.com/watch?v=JXAVISpS4wM) it also has the lovely Eve Arden!
 {% ahfowvideo "fV7neKnADSg" "Groucho and Eve Arden in At The Circus" "https://cdn.grange85.co.uk/swirling/letsdoit25/groucho-eve-arden-at-the-circus.jpg" %}
 
-### Day 8 / Song #2 <br/> Isham Jones & his Orchestra, vocal by Eddie Stone (1932)
+### Day 8 / Song #2 <br/> Isham Jones & his Orchestra, vocal by Eddie Stone - Everyone Says I Love You (1932)
 I have a single from the 80s which has Groucho and Chico (on one side) and Harpo (on the other) all doing their take on Everyone Says I Love You from their 1932 film [Horse Feathers](https://en.wikipedia.org/wiki/Horse_Feathers) but Isham Jones & his Orchestra perform the _proper_ version that was released along with the film.
-{% ahfowvideo "e0WES3K3c9w" "Isham Jones & his Orchestra, vocal by Eddie Stone (1932)" %}
+{% ahfowvideo "e0WES3K3c9w" "Isham Jones & his Orchestra, vocal by Eddie Stone - Everyone Says I Love You (1932)" %}
