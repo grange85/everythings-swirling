@@ -10,7 +10,7 @@ author:
   login: admin
   email: andy@grange85.co.uk
   url: https://www.grange85.co.uk
-image:
+image: https://cdn.grange85.co.uk/swirling/letsdoit25/wizard-of-oz.jpg
 categories:
 - music
 - film
