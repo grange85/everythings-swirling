@@ -3,7 +3,7 @@ layout: post
 title: "Day 20: Gene Kelly Day"
 date: 2025-01-20 00:00 +0000
 sitemap: true
-series-title: #LetsDoIt25"
+series-title: "#LetsDoIt25"
 github-comments-issueid:
 author:
   display_name: Andy
