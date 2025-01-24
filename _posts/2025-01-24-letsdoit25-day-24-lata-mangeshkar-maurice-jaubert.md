@@ -20,6 +20,7 @@ tags:
 - jean vigo
 - l'atalante
 - barsaat
+- cinema
 ---
 A couple more from the movies
 
@@ -31,6 +32,6 @@ To be honest most of the Indian movie music I knew and loved was from the late 5
 
 ### Day 24 / Song #2<br/>Maurice Jaubert - Dans les rues de Paris (from the film [L'Atalante (1934)](https://en.wikipedia.org/wiki/L%27Atalante))
 There is nothing more beuatifully French than Maurice Jaubert's music for Jean Vigo's L'Atalante - I could have chosen any one of its cues but _Dans les rues de Paris_ is the _most_ French! When Juliette gets left behind in Paris this plays as after she gets robbed and has to look for work so she can make her way back to the boat, and to Jean.
-{% ahfowvideo "OyDr1zTy7Ek" "Maurice Jaubert - Dans les rues de Paris" "https://cdn.grange85.co.uk/swirling/letsdoit25/latalante-juliette-dans-les-rues-de-paris.jpg" %}
+{% ahfowvideo "xNuGDgXMljw" "Maurice Jaubert - Dans les rues de Paris" "https://cdn.grange85.co.uk/swirling/letsdoit25/latalante-juliette-dans-les-rues-de-paris.jpg" %}
 
 
