@@ -26,7 +26,7 @@ A couple more from the movies
 
 
 ### Day 24 / Song #1<br/>Lata Mangeshkar - Hawa Mein Udta Jaye (from the film [Barsaat (1949)](https://en.wikipedia.org/wiki/Barsaat_(1949_film)))
-To be honest most of the Indian movie music I knew and loved was from the late 50s and 60s, so some research was required because I knew it existed before then and knew that it deserved its place! I also knew that it had to be either Lata Mangeshkar or Mohammed Rafi and Lata won out for this beauty. And of course it's also lovely to look at.
+To be honest most of the Indian movie music I knew and loved was from the late 50s and 60s, so some research was required because I knew it existed before then and knew that it deserved its place! I also knew that it had to be either Lata Mangeshkar or Mohammed Rafi and Lata won out for this beauty. And of course it is also lovely to look at.
 {% ahfowvideo "OyDr1zTy7Ek" "Lata Mangeshkar - Hawa Mein Udta Jaye" "https://cdn.grange85.co.uk/swirling/letsdoit25/hawa-mein-udta-jaaye-barsaat.jpg" %}
 
 
