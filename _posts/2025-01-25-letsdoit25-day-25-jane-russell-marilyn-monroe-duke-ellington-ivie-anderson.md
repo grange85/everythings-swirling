@@ -25,8 +25,8 @@ I love how this goes from Dorothy and the Olympic team to Lorelie and then... wh
 {% ahfowvideo "MpfRxJ_btSo" "Marilyn Monroe ... and then back to Jane - Bye Bye Baby" %}
 
 
-### Day 17 / Song #2<br/>Duke Ellington and his Orchestra with Ivie Anderson - It Don't Mean a Thing (If it Ain't Got That Swing) (1932)
+### Day 25 / Song #2<br/>Duke Ellington and his Orchestra with Ivie Anderson - It Don't Mean a Thing (If it Ain't Got That Swing) (1932)
 As much as I've loved so much music during this period, it is the swing orchestras that I think I love the most. 
-{% ahfowvideo "IhBwRi3p7Fo" "Stubby Kaye - Sit Down Your Rockin' The Boat (1950)" %}
+{% ahfowvideo "jM3DNpnNv5k" "Duke Ellington and his Orchestra with Ivie Anderson - It Don't Mean a Thing (If it Ain't Got That Swing)" %}
 
 
