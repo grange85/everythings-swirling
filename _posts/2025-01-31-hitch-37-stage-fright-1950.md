@@ -39,6 +39,9 @@ I loved this film so much, it is so much closer to Hitch's British films that I 
 
 {% ahfowvideo "9jFVTOJ7mvc" "Shoot a lovely duck and win a lovely prize" %}
 
+... oh, and Hitchcock of course, some lovely Hitch moments!
+
+
  - Source: DVD
  - Rating: 8/10
  - Hitchcock Zone: [Stage Fright (1950)](https://the.hitchcock.zone/wiki/Stage_Fright_(1950))
