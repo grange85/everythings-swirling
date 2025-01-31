@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hitch #34 - The Paradine Case (1947)'
+title: 'Hitch #35 - The Paradine Case (1947)'
 date: 2024-07-13 12:07 +0100
 sitemap: true
 series-title:
