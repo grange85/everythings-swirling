@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hitch #36 - Stage Fright (1950)'
+title: 'Hitch #37 - Stage Fright (1950)'
 date: 2025-01-31 17:43 +0000
 sitemap: true
 series-title:
@@ -39,7 +39,7 @@ I loved this film so much, it is so much closer to Hitch's British films that I 
 
 {% ahfowvideo "9jFVTOJ7mvc" "Shoot a lovely duck and win a lovely prize" %}
 
-... oh, and Hitchcock of course, some lovely Hitch moments!
+... oh, and Hitchcock of course, some rather lovely Hitch moments!
 
 
  - Source: DVD
