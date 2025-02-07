@@ -40,7 +40,7 @@ Films I've rated most before
 |_Japanese_|1|
 |_Hindi_|1|
 
-So that's over a third not in English, or silent.
+So that's over a third that are not in English, or are silent.
 
 |Decade|Count|Average rating|
 |:--|:--|:--|
@@ -60,7 +60,7 @@ So that's over a third not in English, or silent.
 Top rated films 
  - Casablanca (1942) - 10
  - Sherlock Jr. (1924) - 9
- - Persona (1955) - 8 _first time rated although I have seen it before_
+ - Persona (1965) - 8 _first time rated although I have seen it before_
  - The Passing of the Third Floor Back (1935) - 8
  - The Old Dark House (1932) - 8
  - The Magician (1958) - 8 _first time rated_
