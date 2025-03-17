@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hitch #38 - Strangers on a Train (1951)'
+title: 'Hitch #39 - Strangers on a Train (1951)'
 date: 2025-02-03 10:55 +0000
 sitemap: true
 series-title:

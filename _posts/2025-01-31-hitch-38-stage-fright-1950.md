@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hitch #37 - Stage Fright (1950)'
+title: 'Hitch #38 - Stage Fright (1950)'
 date: 2025-01-31 17:43 +0000
 sitemap: true
 series-title:
