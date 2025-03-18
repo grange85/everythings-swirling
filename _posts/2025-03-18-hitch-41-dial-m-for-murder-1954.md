@@ -29,7 +29,7 @@ Back in 2002 I rated it just a **7** - maybe I was too distracted by its film-of
 
 The set is great (even though Hazel didn't like Tony and Margot's flat) and the premise is beautifully delivered, but most of all its the cast. Grace Kelly is exceptional, looking so gorgeous and domestic at the beginning; so gorgeous and bemused while Tony is playing her; and so gorgeous and bedraggled after a spell on death row. Ray Milland is superb as the villain and John Williams and Anthony Dawson give them wonderful support. Robert Cummings is a little weak perhaps - missing the charm he has with Priscilla Lane in [Saboteur](/swirling/2022/03/07/hitch-30-saboteur/) - but then maybe he didn't need to be anything more than he is - and I do like that he'd worked everything out perfectly!
 
-{% ahfowimage "https://cdn.grange85.co.uk/swirling/hitch/dial-m-for-murder-grace-kelly.jpg" "Grace Kelly in Rope" %}
+{% ahfowimage "https://cdn.grange85.co.uk/swirling/hitch/dial-m-for-murder-grace-kelly.jpg" "Grace Kelly in Dial M for Murder" %}
 
 Many years ago when the NFT were having a season of 3D films I went and saw _Dial M for Murder_ and am glad that I did, but it really didn't need the 3D and it wasn't missed and I guess rather brilliantly Hitch didn't make it look like a 3D film when you watch it in 2D.
 
