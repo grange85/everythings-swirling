@@ -26,7 +26,7 @@ A young gentleman goes to Australia where he reunites with his now married child
 
 {% ahfowimage "https://cdn.grange85.co.uk/swirling/hitch/under-capricorn-charles-and-hattie.jpg" "Charles and Hattie" %}
 
-... but it pulls you in, for so many reasons from the big ones, Ingrid Begrman being the biggest, to the little ones, Cecil Parker being so... well... Cecil-Parker-y).
+... but it pulls you in, for so many reasons from the big ones, Ingrid Begrman being the biggest, to the little ones, Cecil Parker being so... well... Cecil-Parker-y.
 
 {% ahfowimage "https://cdn.grange85.co.uk/swirling/hitch/under-capricorn-cecil-parker.jpg" "Cecil Parker being Cecil Parker-y" %}
 
