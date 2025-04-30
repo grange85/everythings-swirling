@@ -34,6 +34,6 @@ So, maybe this isn't classic Hitch, but it was very enjoyable all the same.
 
 {% ahfowimage "https://cdn.grange85.co.uk/swirling/hitch/shirley-maclaine.jpg" "Shirley MacLaine" %}
 
-Source: DVD
-Rating: 7/10
+Source: DVD  
+Rating: 7/10  
 Hitchcock Zone: [The Trouble with Harry (1955)](https://the.hitchcock.zone/wiki/The_Trouble_with_Harry_(1955))
