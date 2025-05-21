@@ -17,6 +17,7 @@ tags:
 - the man who knew too much
 - james stewart
 - doris day
+date: 2025-05-21 16:16 +0100
 ---
 {% ahfowimage "https://cdn.grange85.co.uk/swirling/hitch/the-man-who-knew-too-much-1956.jpg" "The Man Who Knew Too Much (1956)" %}
 Every time I watch the remake of The Man Who Knew Too Much, I feel a bit sad that Hitch made it at all because it's not that great, and while the 1934 version might not be *great* either it is head and shoulders above this - we made sure by rewatching that and if anything I liked that version even more this time - although perhaps because of the disappointment of this one?
