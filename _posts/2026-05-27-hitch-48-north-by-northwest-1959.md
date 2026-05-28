@@ -16,6 +16,7 @@ categories:
 - film
 tags:
 - north by northwest
+- films
 ---
 So we continue our slow, slow, crawl through Hitchock's filmography. North by Northwest has always been one of my favourite US Hitch films even though so much about It is utterly ridiculous. Or maybe _because_ so much of it is ridiculous. But more likely because the cast is so perfect that all the holes in the plot don't matter.
 
@@ -25,7 +26,7 @@ It gets off on the perfect foot  with the fantastic Saul Bass title sequence and
 
 {% ahfowvideo "1ON67uYwGaw" "North by Northwest Titles" %}
 
-It is also of course packed with so many beautiful set-pieces, most notably the UN murder, the crop-duster scene, and the fake murder of Eve in the Mount Rushmore cafe - all in such wonderful VistaVision and glorious lush colour (altough Cary Grant's over the top tan is a little too lush). Maybe more than any Hitch film so far a sizeable nod needs to given to Robert Burks.
+It is also of course packed with so many beautiful set-pieces, most notably the UN murder, the crop-duster scene, and the fake by Eve in the Mount Rushmore cafe - all in such wonderful VistaVision and glorious lush colour (altough Cary Grant's over the top tan is a little too lush). Maybe more than any Hitch film so far a sizeable nod needs to given to Robert Burks.
 
 
 It is probably the Hitch film I've seen more than any other (except maybe [The 39 Steps](https://www.grange85.co.uk/swirling/2017/08/05/hitch-20-the-39-steps/)) since it's a film I can't really turn off, a film that doesn't get any worse becasue you know everything. Plus, it's on telly more often than the British Hitch films I love more.
