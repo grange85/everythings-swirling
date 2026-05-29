@@ -12,9 +12,11 @@ author:
   url: https://www.grange85.co.uk
 image: https://cdn.grange85.co.uk/swirling/wimbledon-whitley-bay-1961-prog-cover.jpg
 categories:
--
+- sport
+- football
 tags:
--
+- wimbledon FC
+- whitley bay
 ---
 The floodlights of Wimbledon's (original) Plough Lane ground could be seen across the railway tracks, and a cemetery, from the house my parents lived in at 20 Strathearn Road, but in the early 1970s schoolkids didn't support non-league clubs (which Wimbledon were at the time) so I only became a fan a little later.
 
